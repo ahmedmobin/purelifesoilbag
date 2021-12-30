@@ -1,12 +1,11 @@
 {% for block in section.blocks %}
-	hello
   {% if block.settings.slide-img != blank %}
         <img src="{{ block.settings.slide-img | img_url: 'medium'}}" />
   {% endif %}
 {% endfor %}
 {% schema %}
 {
-  "name": "Slidern",
+  "name": "Slider",
   "class": "slider-class",
   "settings": [],
   "blocks": [
