@@ -264,11 +264,47 @@
             "slide-name": "Sarah",
             "slide-description": "Perfect soil. Everything I put on the ground is growing. And this is was my first time to do gardening in my back yard. Thanks, I will order next year!"
           }
+        },
+        "38c912d5-cc05-4616-b6b6-a66d7af66e82": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Kevin",
+            "slide-description": "Honestly, the best transaction ever. Daniel was professional and very informative. The boss did a great job hiring him. Bill took my payment over the phone and it was smooth as silk. Look forward to buying again next year!"
+          }
+        },
+        "99339d05-5150-4b2f-94aa-1aa3ff7d7e3b": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Gagandeep",
+            "slide-description": "What a terrific product. The soil was so rich in nutrients that it brought my rather dead garden back to life in less than a month and then some. I’ve never seen broccoli and beanstalks grow like this. This feels like a revolutionary product and will order again next year."
+          }
+        },
+        "fc381dc1-862a-41db-a681-e8a05d3efffc": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Amy",
+            "slide-description": "Shock, I’m truly in shock. I didn’t know results like this were possible. Pure Life has changed my perception of what an organic soil can do for you. It’s totally worth the extra cost!"
+          }
+        },
+        "a927e4b2-75dc-465a-b179-8066a0319ddb": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Maria",
+            "slide-description": "Simply the best product on the market. I’ve never experienced results like this. It feels like my plants are growing twice as high and my roots are twice as thick. Bill and Daniel truly understand what it takes to get your soil to perform and you need to buy this today."
+          }
         }
       },
       "block_order": [
         "3b514b0c-ac3c-4fa2-970e-acaecb2db47d",
-        "4e8dc6a2-ba0a-495d-b31b-056404272e96"
+        "4e8dc6a2-ba0a-495d-b31b-056404272e96",
+        "38c912d5-cc05-4616-b6b6-a66d7af66e82",
+        "99339d05-5150-4b2f-94aa-1aa3ff7d7e3b",
+        "fc381dc1-862a-41db-a681-e8a05d3efffc",
+        "a927e4b2-75dc-465a-b179-8066a0319ddb"
       ],
       "settings": {
       }
