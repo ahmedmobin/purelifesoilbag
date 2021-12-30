@@ -1,25 +1,50 @@
+<ul class="items-slider">
 {% for block in section.blocks %}
-  {% if block.settings.slide-img != blank %}
-        <img src="{{ block.settings.slide-img | img_url: 'medium'}}" />
-  {% endif %}
+  
+  
+    <li>
+        {% if block.settings.slide-img != blank %}
+          <img src="{{ block.settings.slide-img | img_url: 'medium'}}" />
+        {% endif %}
+        <strong>{{ block.settings.slide-name }}</strong>
+        {{ block.settings.slide-description }}
+    </li>
+    
 {% endfor %}
-
+</ul>
 {% schema %}
 {
   "name": "Slider",
-  "class": "section-class",
+  "class": "slider-class",
   "settings": [],
   "blocks": [
     {
-      "name": "Slide",
-      "type": "blocktype",
+    "type": "slider",
+	  "name": "slide",
       "settings": [
         {
+          "id": "slide-img",
           "type": "image_picker",
-		  "label": "Select the image",
-          "id": "slide-id"
+          "label": "Select Image"
+        },
+        {
+          "id": "slide-name",
+          "type": "text",
+          "label": "Add Author Name"
+        },
+        {
+          "id": "slide-description",
+          "type": "textarea",
+          "label": "Add Testimonial Content"
         }
       ]
+    }
+  ],
+  "max_blocks": 6,
+  "presets": [
+    {
+      "name": "Slider",
+      "category": "Custom content"
     }
   ]
 }
