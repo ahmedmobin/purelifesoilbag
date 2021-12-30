@@ -35,8 +35,9 @@
         "7a87d14a-3eb4-41a8-b53a-40e13e2b35da"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/hero-banner.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -226,13 +227,19 @@
           "type": "blocktype",
           "settings": {
           }
+        },
+        "0ec04f40-ef0a-4b52-9bcb-18a6843e6ab0": {
+          "type": "blocktype",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "18170946-5a15-497e-97d2-e1dc992e133f",
         "44cedaf9-df6e-495d-a4a0-227d72a30655",
         "1495d6e4-f193-4bf7-913f-30609d088c9c",
-        "d202cb76-6477-49df-bf71-3997e02df0df"
+        "d202cb76-6477-49df-bf71-3997e02df0df",
+        "0ec04f40-ef0a-4b52-9bcb-18a6843e6ab0"
       ],
       "settings": {
       }
