@@ -21,19 +21,6 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "blocks": {
-          "announcement-bar-0": {
-            "type": "announcement",
-            "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "background-1",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "announcement-bar-0"
-        ],
         "settings": {
         }
       },
@@ -79,6 +66,13 @@
           "enable_country_selector": true,
           "enable_language_selector": true,
           "payment_enable": true
+        }
+      },
+      "header-top-bar": {
+        "type": "header-top-bar",
+        "settings": {
+          "section-heading": "123456789",
+          "section-large-heading": "example@example.com"
         }
       }
     },
