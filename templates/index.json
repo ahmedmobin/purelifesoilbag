@@ -10,21 +10,29 @@
             "heading_size": "medium"
           }
         },
-        "button": {
+        "c3b1567a-6a52-40c2-a62e-845a66463f2f": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "7a87d14a-3eb4-41a8-b53a-40e13e2b35da": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "Button label",
             "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_style_secondary_2": true
           }
         }
       },
       "block_order": [
         "heading",
-        "button"
+        "c3b1567a-6a52-40c2-a62e-845a66463f2f",
+        "7a87d14a-3eb4-41a8-b53a-40e13e2b35da"
       ],
       "settings": {
         "image_overlay_opacity": 0,
@@ -168,12 +176,22 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "e9b27e01-5b63-478f-9926-3ae8d215bf7d": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "e9b27e01-5b63-478f-9926-3ae8d215bf7d"
       ],
       "settings": {
         "title": "Multicolumn",
@@ -189,22 +207,22 @@
     "16408619634fa92726": {
       "type": "items-slider",
       "blocks": {
-        "ae372d66-4b79-4126-a15f-697440fe9ef2": {
-          "type": "slider",
+        "18170946-5a15-497e-97d2-e1dc992e133f": {
+          "type": "blocktype",
           "settings": {
-            "slide-img": "shopify:\/\/shop_images\/pure-life-soil-logo.png"
+            "image-id": "shopify:\/\/shop_images\/home-banner-myspecs.jpg"
           }
         },
-        "4396f572-ab2d-4ddf-8262-5d059a92c95d": {
-          "type": "slider",
+        "44cedaf9-df6e-495d-a4a0-227d72a30655": {
+          "type": "blocktype",
           "settings": {
-            "slide-img": "shopify:\/\/shop_images\/home-banner-myspecs.jpg"
+            "image-id": "shopify:\/\/shop_images\/home-banner-myspecs.jpg"
           }
         }
       },
       "block_order": [
-        "ae372d66-4b79-4126-a15f-697440fe9ef2",
-        "4396f572-ab2d-4ddf-8262-5d059a92c95d"
+        "18170946-5a15-497e-97d2-e1dc992e133f",
+        "44cedaf9-df6e-495d-a4a0-227d72a30655"
       ],
       "settings": {
       }
