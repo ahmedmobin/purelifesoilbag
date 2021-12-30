@@ -249,38 +249,26 @@
     "16408619634fa92726": {
       "type": "items-slider",
       "blocks": {
-        "18170946-5a15-497e-97d2-e1dc992e133f": {
-          "type": "blocktype",
+        "3b514b0c-ac3c-4fa2-970e-acaecb2db47d": {
+          "type": "slider",
           "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Liene",
+            "slide-description": "The garden soil is amazing, one of the best by far.  My mom had some trouble with her garden until I shared my soil with her, the growth took a 180-degree turn, it was so luscious that she was able to share many vegetables with me this year, definitely looking to buy again next year."
           }
         },
-        "44cedaf9-df6e-495d-a4a0-227d72a30655": {
-          "type": "blocktype",
+        "4e8dc6a2-ba0a-495d-b31b-056404272e96": {
+          "type": "slider",
           "settings": {
-          }
-        },
-        "1495d6e4-f193-4bf7-913f-30609d088c9c": {
-          "type": "blocktype",
-          "settings": {
-          }
-        },
-        "d202cb76-6477-49df-bf71-3997e02df0df": {
-          "type": "blocktype",
-          "settings": {
-          }
-        },
-        "0ec04f40-ef0a-4b52-9bcb-18a6843e6ab0": {
-          "type": "blocktype",
-          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Sarah",
+            "slide-description": "Perfect soil. Everything I put on the ground is growing. And this is was my first time to do gardening in my back yard. Thanks, I will order next year!"
           }
         }
       },
       "block_order": [
-        "18170946-5a15-497e-97d2-e1dc992e133f",
-        "44cedaf9-df6e-495d-a4a0-227d72a30655",
-        "1495d6e4-f193-4bf7-913f-30609d088c9c",
-        "d202cb76-6477-49df-bf71-3997e02df0df",
-        "0ec04f40-ef0a-4b52-9bcb-18a6843e6ab0"
+        "3b514b0c-ac3c-4fa2-970e-acaecb2db47d",
+        "4e8dc6a2-ba0a-495d-b31b-056404272e96"
       ],
       "settings": {
       }
