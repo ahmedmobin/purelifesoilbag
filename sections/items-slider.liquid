@@ -1,12 +1,24 @@
 {% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
+{
+  "name": "Slider", // Section name
+  "settings": [
+        {
+          "id": "section-tel",
+          "type": "image_picker",
+          "label": "Telephone Number"
+        },
+        {
+          "id": "section-email",
+          "type": "text",
+          "label": "Email Address",
+          "default": "example@example.com"
+        }
+      ],
+      "presets": [
+      {
+        "name": "Header Top Bar",
+        "category": "ADVANCED LAYOUT"
+      }
+	]
+}
 {% endschema %}
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
