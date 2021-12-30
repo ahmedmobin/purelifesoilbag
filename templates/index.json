@@ -210,26 +210,29 @@
         "18170946-5a15-497e-97d2-e1dc992e133f": {
           "type": "blocktype",
           "settings": {
-            "image-id": "shopify:\/\/shop_images\/home-banner-myspecs.jpg"
           }
         },
         "44cedaf9-df6e-495d-a4a0-227d72a30655": {
           "type": "blocktype",
           "settings": {
-            "image-id": "shopify:\/\/shop_images\/home-banner-myspecs.jpg"
           }
         },
         "1495d6e4-f193-4bf7-913f-30609d088c9c": {
           "type": "blocktype",
           "settings": {
-            "image-id": "shopify:\/\/shop_images\/athri-dhoop.jpg"
+          }
+        },
+        "d202cb76-6477-49df-bf71-3997e02df0df": {
+          "type": "blocktype",
+          "settings": {
           }
         }
       },
       "block_order": [
         "18170946-5a15-497e-97d2-e1dc992e133f",
         "44cedaf9-df6e-495d-a4a0-227d72a30655",
-        "1495d6e4-f193-4bf7-913f-30609d088c9c"
+        "1495d6e4-f193-4bf7-913f-30609d088c9c",
+        "d202cb76-6477-49df-bf71-3997e02df0df"
       ],
       "settings": {
       }
