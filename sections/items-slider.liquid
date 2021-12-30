@@ -4,25 +4,28 @@
 
 {% schema %}
 {
-  "name": "Slider", // Section name
-  "settings": [
+  "name": "Slidern",
+  "class": "slider-class",
+  "settings": [],
+  "blocks": [
+    {
+      "type": "slider",
+	  "name": "slide",
+      "settings": [
         {
-          "id": "section-tel",
+          "id": "slide-img",
           "type": "image_picker",
-          "label": "Telephone Number"
-        },
-        {
-          "id": "section-email",
-          "type": "text",
-          "label": "Email Address",
-          "default": "example@example.com"
+          "label": "Select Image"
         }
-      ],
-      "presets": [
-      {
-        "name": "Slider",
-        "category": "ADVANCED LAYOUT"
-      }
-	]
+      ]
+    }
+  ],
+  "max_blocks": 6,
+  "presets": [
+    {
+      "name": "Slider",
+      "category": "Custom content"
+    }
+  ]
 }
 {% endschema %}
