@@ -3,29 +3,30 @@
         <img src="{{ block.settings.slide-img | img_url: 'medium'}}" />
   {% endif %}
 {% endfor %}
+
 {% schema %}
 {
-  "name": "Slider",
-  "class": "slider-class",
-  "settings": [],
-  "blocks": [
+  "name": "Section Name",
+  "class": "section-class",
+  "settings": [
     {
-      "type": "slider",
-	  "name": "slide",
-      "settings": [
-        {
-          "id": "slide-img",
-          "type": "image_picker",
-          "label": "Select Image"
-        }
-      ]
+      "type": "text",
+      "id": "section-settings-id",
+		"label": "Section label",
+      "default": "Section settign default"
     }
   ],
-  "max_blocks": 6,
-  "presets": [
+  "blocks": [
     {
-      "name": "Slider",
-      "category": "Custom content"
+      "name": "Block Slide",
+      "type": "blocktype",
+      "settings": [
+        {
+          "type": "image_picker",
+			"label": "Select the image",
+          "id": "image-id"
+        }
+      ]
     }
   ]
 }
