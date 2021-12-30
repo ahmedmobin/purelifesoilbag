@@ -71,8 +71,6 @@
       "header-top-bar": {
         "type": "header-top-bar",
         "settings": {
-          "section-heading": "123456789",
-          "section-large-heading": "example@example.com"
         }
       }
     },
