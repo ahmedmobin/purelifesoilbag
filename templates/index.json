@@ -296,6 +296,38 @@
             "slide-name": "Maria",
             "slide-description": "Simply the best product on the market. I’ve never experienced results like this. It feels like my plants are growing twice as high and my roots are twice as thick. Bill and Daniel truly understand what it takes to get your soil to perform and you need to buy this today."
           }
+        },
+        "4b665410-ca05-448f-a762-b9fdb8848317": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Rebecca",
+            "slide-description": "Will keep this short and sweet. Best. Soil. Ever. Seriously it’s worth the price. My garden grew twice as well last year just with this soil."
+          }
+        },
+        "2bcb7ca9-0110-40b2-b39f-cfa017f101d9": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "David",
+            "slide-description": "I was skeptical at first. After all, the price of this organic soil is much higher than normal, but not nearly as high as others. I have to say, my doubts about this product were quickly removed. What normally took 7 to 8 weeks only took around 6. Not only did my plants grow faster, they grew bigger and were more luscious. Daniel wasn’t kidding when he said the worm castings would bring my garden to life. What an incredible product!"
+          }
+        },
+        "9afaba91-1949-4911-9ccc-b19b950e3ad7": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Liene",
+            "slide-description": "The garden soil is amazing, one of the best by far.  My mom had some trouble with her garden until I shared my soil with her, the growth took a 180-degree turn, it was so luscious that she was able to share many vegetables with me this year, definitely looking to buy again next year."
+          }
+        },
+        "fb403b68-2cf1-4080-a691-94f983ff6eea": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Sarah",
+            "slide-description": "Perfect soil. Everything I put on the ground is growing. And this is was my first time to do gardening in my back yard. Thanks, I will order next year!"
+          }
         }
       },
       "block_order": [
@@ -304,7 +336,11 @@
         "38c912d5-cc05-4616-b6b6-a66d7af66e82",
         "99339d05-5150-4b2f-94aa-1aa3ff7d7e3b",
         "fc381dc1-862a-41db-a681-e8a05d3efffc",
-        "a927e4b2-75dc-465a-b179-8066a0319ddb"
+        "a927e4b2-75dc-465a-b179-8066a0319ddb",
+        "4b665410-ca05-448f-a762-b9fdb8848317",
+        "2bcb7ca9-0110-40b2-b39f-cfa017f101d9",
+        "9afaba91-1949-4911-9ccc-b19b950e3ad7",
+        "fb403b68-2cf1-4080-a691-94f983ff6eea"
       ],
       "settings": {
       }
