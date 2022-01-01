@@ -286,7 +286,7 @@
         "1641024705d9020087-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "About",
             "heading_tag": "h2",
             "heading_size": "h2"
           }
@@ -294,7 +294,7 @@
         "736dd43d-bac8-463b-ba52-3bfa2c6b4573": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Pure Life Soil Bag",
             "heading_tag": "h2",
             "heading_size": "h1"
           }
@@ -302,15 +302,15 @@
         "e67a3d0a-5294-4ac4-a98c-c8e1eb5ac9dd": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_tag": "h2",
+            "heading": "Not your typical garden center topsoil!",
+            "heading_tag": "h3",
             "heading_size": "h1"
           }
         },
         "1641024705d9020087-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Getting quality black garden soil and mulch delivered to your home has never been easier than with PureLifeSoilBag. All you have to do is call or order online and we deliver. That’s it! No lugging, no mess and you don’t have to be home to take delivery.<\/p>",
             "text_style": "body"
           }
         },
