@@ -287,6 +287,7 @@
           "type": "heading",
           "settings": {
             "heading": "About",
+            "heading_color": "#334fb4",
             "heading_tag": "h2",
             "heading_size": "h2"
           }
@@ -295,6 +296,7 @@
           "type": "heading",
           "settings": {
             "heading": "Pure Life Soil Bag",
+            "heading_color": "#ffffff",
             "heading_tag": "h2",
             "heading_size": "h1"
           }
@@ -303,6 +305,7 @@
           "type": "heading",
           "settings": {
             "heading": "Not your typical garden center topsoil!",
+            "heading_color": "#ffffff",
             "heading_tag": "h3",
             "heading_size": "h1"
           }
