@@ -32,7 +32,7 @@
         {%- for block in section.blocks -%}
           {% case block.type %}
             {%- when 'heading' -%}
-              <{{ block.settings.heading_tag }} class="image-with-text__heading {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
+              <{{ block.settings.heading_tag }} style="color: {{block.settings.heading_color}};" class="image-with-text__heading {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
                 {{ block.settings.heading | escape }}
               </{{ block.settings.heading_tag }}>
             {%- when 'caption' -%}
