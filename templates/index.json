@@ -296,7 +296,7 @@
           "type": "heading",
           "settings": {
             "heading": "Pure Life Soil Bag",
-            "heading_color": "rgba(0,0,0,0)",
+            "heading_color": "#121212",
             "heading_tag": "h2",
             "heading_size": "h1"
           }
