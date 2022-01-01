@@ -48,6 +48,70 @@
         "show_text_below": true
       }
     },
+    "16410247051dbd54f4": {
+      "type": "image-with-text-advance",
+      "blocks": {
+        "1641024705d9020087-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About",
+            "heading_color": "#673092",
+            "heading_tag": "h2",
+            "heading_size": "h2"
+          }
+        },
+        "736dd43d-bac8-463b-ba52-3bfa2c6b4573": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pure Life Soil Bag",
+            "heading_color": "#121212",
+            "heading_tag": "h2",
+            "heading_size": "h1"
+          }
+        },
+        "e67a3d0a-5294-4ac4-a98c-c8e1eb5ac9dd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Not your typical garden center topsoil!",
+            "heading_color": "#000000",
+            "heading_tag": "h3",
+            "heading_size": "h1"
+          }
+        },
+        "1641024705d9020087-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Getting quality black garden soil and mulch delivered to your home has never been easier than with PureLifeSoilBag. All you have to do is call or order online and we deliver. That’s it! No lugging, no mess and you don’t have to be home to take delivery.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1641024705d9020087-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "1641024705d9020087-0",
+        "736dd43d-bac8-463b-ba52-3bfa2c6b4573",
+        "e67a3d0a-5294-4ac4-a98c-c8e1eb5ac9dd",
+        "1641024705d9020087-1",
+        "1641024705d9020087-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about-purelifesoilbag.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
     "1640872670092a6159": {
       "type": "image-with-text",
       "blocks": {
@@ -279,79 +343,15 @@
       ],
       "settings": {
       }
-    },
-    "16410247051dbd54f4": {
-      "type": "image-with-text-advance",
-      "blocks": {
-        "1641024705d9020087-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "About",
-            "heading_color": "#673092",
-            "heading_tag": "h2",
-            "heading_size": "h2"
-          }
-        },
-        "736dd43d-bac8-463b-ba52-3bfa2c6b4573": {
-          "type": "heading",
-          "settings": {
-            "heading": "Pure Life Soil Bag",
-            "heading_color": "#121212",
-            "heading_tag": "h2",
-            "heading_size": "h1"
-          }
-        },
-        "e67a3d0a-5294-4ac4-a98c-c8e1eb5ac9dd": {
-          "type": "heading",
-          "settings": {
-            "heading": "Not your typical garden center topsoil!",
-            "heading_color": "#000000",
-            "heading_tag": "h3",
-            "heading_size": "h1"
-          }
-        },
-        "1641024705d9020087-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Getting quality black garden soil and mulch delivered to your home has never been easier than with PureLifeSoilBag. All you have to do is call or order online and we deliver. That’s it! No lugging, no mess and you don’t have to be home to take delivery.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1641024705d9020087-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "#"
-          }
-        }
-      },
-      "block_order": [
-        "1641024705d9020087-0",
-        "736dd43d-bac8-463b-ba52-3bfa2c6b4573",
-        "e67a3d0a-5294-4ac4-a98c-c8e1eb5ac9dd",
-        "1641024705d9020087-1",
-        "1641024705d9020087-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/about-purelifesoilbag.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left"
-      }
     }
   },
   "order": [
     "image_banner",
+    "16410247051dbd54f4",
     "1640872670092a6159",
     "rich_text",
     "featured_products",
     "collage",
-    "16408619634fa92726",
-    "16410247051dbd54f4"
+    "16408619634fa92726"
   ]
 }
