@@ -60,17 +60,19 @@
         ],
         "settings": {
           "color_scheme": "background-1",
-          "newsletter_enable": true,
+          "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": false,
-          "enable_country_selector": true,
-          "enable_language_selector": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
           "payment_enable": true
         }
       },
       "header-top-bar": {
         "type": "header-top-bar",
         "settings": {
+          "section-tel": "123456789",
+          "section-email": "example@example.com"
         }
       }
     },
