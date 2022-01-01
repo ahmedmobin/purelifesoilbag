@@ -326,16 +326,6 @@
             "button_label": "Button label",
             "button_link": ""
           }
-        },
-        "403c956a-d1a7-41de-bd3c-c3dfab145dfe": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_color": "",
-            "header_font_new": "work_sans_n6",
-            "heading_tag": "h2",
-            "heading_size": "h1"
-          }
         }
       },
       "block_order": [
@@ -343,8 +333,7 @@
         "736dd43d-bac8-463b-ba52-3bfa2c6b4573",
         "e67a3d0a-5294-4ac4-a98c-c8e1eb5ac9dd",
         "1641024705d9020087-1",
-        "1641024705d9020087-2",
-        "403c956a-d1a7-41de-bd3c-c3dfab145dfe"
+        "1641024705d9020087-2"
       ],
       "settings": {
         "height": "adapt",
