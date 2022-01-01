@@ -46,6 +46,20 @@
               "menu": "footer"
             }
           },
+          "22006ded-0b2d-4036-a190-b481a1f97404": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "9944519f-dce8-49be-a52a-adcd73c77cd5": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
           "footer-1": {
             "type": "text",
             "settings": {
@@ -56,6 +70,8 @@
         },
         "block_order": [
           "footer-0",
+          "22006ded-0b2d-4036-a190-b481a1f97404",
+          "9944519f-dce8-49be-a52a-adcd73c77cd5",
           "footer-1"
         ],
         "settings": {
