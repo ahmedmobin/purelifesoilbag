@@ -61,7 +61,7 @@
         "1640872670851814fe-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pure Life Soil Bag<\/p><p>&lt;p&gt;Getting quality black garden soil and mulch delivered to your home has never been easier than with PureLifeSoilBag. All you have to do is call or order online and we deliver. That’s it! No lugging, no mess and you don’t have to be home to take delivery.&lt;\/p&gt;<\/p>",
             "text_style": "body"
           }
         },
@@ -79,6 +79,7 @@
         "1640872670851814fe-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/about-purelifesoilbag.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -178,72 +179,6 @@
         "heading": "Multimedia collage",
         "desktop_layout": "left",
         "mobile_layout": "collage"
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "Video",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false
-      }
-    },
-    "multi_column": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "e9b27e01-5b63-478f-9926-3ae8d215bf7d": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3",
-        "e9b27e01-5b63-478f-9926-3ae8d215bf7d"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
       }
     },
     "16408619634fa92726": {
@@ -352,8 +287,6 @@
     "rich_text",
     "featured_products",
     "collage",
-    "video",
-    "multi_column",
     "16408619634fa92726"
   ]
 }
