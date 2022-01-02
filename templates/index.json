@@ -133,11 +133,19 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "213dc065-7072-4956-bf21-14bdbc3dbb0a": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"javascript:void(0)\" id=\"woohoo-trigger-spinthewheel\" class=\"woohoo-36958\">Play game<\/a>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "16411154584316a48f-0",
-        "16411154584316a48f-2"
+        "16411154584316a48f-2",
+        "213dc065-7072-4956-bf21-14bdbc3dbb0a"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/spin-the-wheel-banner.jpg",
