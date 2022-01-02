@@ -2342,6 +2342,8 @@ details-disclosure > details {
     color: #fff;
     text-align: right;
 }
+  .header-top-bar ul{ margin:0; padding:0; list-style:none; }
+  .header-top-bar ul li{ display:inline-block; vertical-align:middle; margin-left:10px; }
 .header-top-bar a {
     color: #fff;
     text-align: right;
