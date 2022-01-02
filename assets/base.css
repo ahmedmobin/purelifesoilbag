@@ -2338,7 +2338,15 @@ details-disclosure > details {
   background: var(--gradient-background);
   background-attachment: fixed;
 }
-
+.header-top-bar {
+    color: #fff;
+    text-align: right;
+}
+.header-top-bar a {
+    color: #fff;
+    text-align: right;
+    text-decoration: none;
+}
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
