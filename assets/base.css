@@ -2344,11 +2344,12 @@ details-disclosure > details {
 }
   .header-top-bar ul{ margin:0; padding:0; list-style:none; }
   .header-top-bar ul li{ display:inline-block; vertical-align:middle; margin-left:10px; }
-.header-top-bar a {
+.header-top-bar ul li a {
     color: #fff;
     text-align: right;
     text-decoration: none;
 }
+  .header-top-bar ul li a:hover{ text-decoration:underline; }
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
