@@ -2,11 +2,15 @@
   <div class="items-slider">
   {% for block in section.blocks %}
       <div class="single-slick-slide">
-          {% if block.settings.slide-img != blank %}
-            <img src="{{ block.settings.slide-img | img_url: 'medium'}}" />
-          {% endif %}
-          <strong>{{ block.settings.slide-name }}</strong>
-          {{ block.settings.slide-description }}
+        <div class="testimonial-inner">
+          <div class="testimonial-info">
+            {% if block.settings.slide-img != blank %}
+              <img src="{{ block.settings.slide-img | img_url: 'medium'}}" />
+            {% endif %}
+            <strong>{{ block.settings.slide-name }}</strong>
+            {{ block.settings.slide-description }}
+          </div>
+        </div>
       </div>
   {% endfor %}
   </div>
