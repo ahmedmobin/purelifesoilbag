@@ -1,17 +1,16 @@
-<ul class="items-slider">
-{% for block in section.blocks %}
-  
-  
-    <li>
-        {% if block.settings.slide-img != blank %}
-          <img src="{{ block.settings.slide-img | img_url: 'medium'}}" />
-        {% endif %}
-        <strong>{{ block.settings.slide-name }}</strong>
-        {{ block.settings.slide-description }}
-    </li>
-    
-{% endfor %}
-</ul>
+<div class="page-width">
+  <ul class="items-slider">
+  {% for block in section.blocks %}
+      <li>
+          {% if block.settings.slide-img != blank %}
+            <img src="{{ block.settings.slide-img | img_url: 'medium'}}" />
+          {% endif %}
+          <strong>{{ block.settings.slide-name }}</strong>
+          {{ block.settings.slide-description }}
+      </li>
+  {% endfor %}
+  </ul>
+</div>
 {% schema %}
 {
   "name": "Slider",
