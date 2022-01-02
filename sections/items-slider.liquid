@@ -4,7 +4,17 @@
       <div class="single-slick-slide">
         <div class="testimonial-inner">
           <div class="testimonial-info">
-            <strong>{{ block.settings.slide-name }} - {{ block.settings.slide-city }} - {{ block.settings.slide-state }}</strong>
+            <strong>
+              {% if block.settings.slide-name != blank %}
+              {{ block.settings.slide-name }}
+              {% endif %}
+              {% if block.settings.slide-city != blank %}
+              - {{ block.settings.slide-city }}
+              {% endif %}
+              {% if block.settings.slide-state != blank %}
+              - {{ block.settings.slide-state }}
+              {% endif %}
+            </strong>
             {% if block.settings.slide-img != blank %}
               <img src="{{ block.settings.slide-img | img_url: 'medium'}}" />
             {% endif %}
