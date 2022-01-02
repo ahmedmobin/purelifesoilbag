@@ -1,15 +1,11 @@
 <!-- Header top bar -->
 <section class="header-top-bar page-width" style="background-color:{{section.settings.section-bg}}">
-   <div class="container">
-      <div class="welcome-outter">
-         {% if section.settings.section-tel != blank %}
-         Phone: <a href="tel:{{ section.settings.section-tel }}" class="section-heading">{{ section.settings.section-tel }}</a>
-         {% endif %}
-         {% if section.settings.section-email != blank %}
-         Email: <a href="email:{{ section.settings.section-email }}" class="section-large-heading">{{ section.settings.section-email }}</a>
-         {% endif %}
-      </div>
-   </div>
+    {% if section.settings.section-tel != blank %}
+    Phone: <a href="tel:{{ section.settings.section-tel }}" class="section-heading">{{ section.settings.section-tel }}</a>
+    {% endif %}
+    {% if section.settings.section-email != blank %}
+    Email: <a href="email:{{ section.settings.section-email }}" class="section-large-heading">{{ section.settings.section-email }}</a>
+    {% endif %}
 </section>
 <!-- Header top bar ends -->
 {% schema %}
