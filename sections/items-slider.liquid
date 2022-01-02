@@ -4,7 +4,7 @@
       <div class="single-slick-slide">
         <div class="testimonial-inner">
           <div class="testimonial-info">
-            <strong>{{ block.settings.slide-name }}</strong>
+            <strong>{{ block.settings.slide-name }} - {{ block.settings.slide-city }} - {{ block.settings.slide-state }}</strong>
             {% if block.settings.slide-img != blank %}
               <img src="{{ block.settings.slide-img | img_url: 'medium'}}" />
             {% endif %}
@@ -34,6 +34,16 @@
           "id": "slide-name",
           "type": "text",
           "label": "Add Author Name"
+        },
+		{
+          "id": "slide-city",
+          "type": "text",
+          "label": "Author City"
+        },
+		{
+          "id": "slide-state",
+          "type": "text",
+          "label": "Author State"
         },
         {
           "id": "slide-description",
