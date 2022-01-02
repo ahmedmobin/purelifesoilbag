@@ -113,6 +113,46 @@
         "custom_class": "about-us-section"
       }
     },
+    "1641115458421f4b82": {
+      "type": "image-banner",
+      "blocks": {
+        "16411154584316a48f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Spin the wheel to win",
+            "heading_size": "large"
+          }
+        },
+        "16411154584316a48f-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "PLAY NOW",
+            "button_link_1": "#",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16411154584316a48f-0",
+        "16411154584316a48f-2"
+      ],
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/spin-the-wheel-banner.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "16408619634fa92726": {
       "type": "items-slider",
       "blocks": {
@@ -121,6 +161,8 @@
           "settings": {
             "slide-img": "shopify:\/\/shop_images\/star5.png",
             "slide-name": "Liene",
+            "slide-city": "",
+            "slide-state": "",
             "slide-description": "The garden soil is amazing, one of the best by far.  My mom had some trouble with her garden until I shared my soil with her, the growth took a 180-degree turn, it was so luscious that she was able to share many vegetables with me this year, definitely looking to buy again next year."
           }
         },
@@ -129,6 +171,8 @@
           "settings": {
             "slide-img": "shopify:\/\/shop_images\/star5.png",
             "slide-name": "Sarah",
+            "slide-city": "",
+            "slide-state": "",
             "slide-description": "Perfect soil. Everything I put on the ground is growing. And this is was my first time to do gardening in my back yard. Thanks, I will order next year!"
           }
         },
@@ -137,6 +181,8 @@
           "settings": {
             "slide-img": "shopify:\/\/shop_images\/star5.png",
             "slide-name": "Kevin",
+            "slide-city": "",
+            "slide-state": "",
             "slide-description": "Honestly, the best transaction ever. Daniel was professional and very informative. The boss did a great job hiring him. Bill took my payment over the phone and it was smooth as silk. Look forward to buying again next year!"
           }
         },
@@ -145,6 +191,8 @@
           "settings": {
             "slide-img": "shopify:\/\/shop_images\/star5.png",
             "slide-name": "Gagandeep",
+            "slide-city": "",
+            "slide-state": "",
             "slide-description": "What a terrific product. The soil was so rich in nutrients that it brought my rather dead garden back to life in less than a month and then some. I’ve never seen broccoli and beanstalks grow like this. This feels like a revolutionary product and will order again next year."
           }
         },
@@ -153,6 +201,8 @@
           "settings": {
             "slide-img": "shopify:\/\/shop_images\/star5.png",
             "slide-name": "Amy",
+            "slide-city": "",
+            "slide-state": "",
             "slide-description": "Shock, I’m truly in shock. I didn’t know results like this were possible. Pure Life has changed my perception of what an organic soil can do for you. It’s totally worth the extra cost!"
           }
         },
@@ -161,6 +211,8 @@
           "settings": {
             "slide-img": "shopify:\/\/shop_images\/star5.png",
             "slide-name": "Maria",
+            "slide-city": "",
+            "slide-state": "",
             "slide-description": "Simply the best product on the market. I’ve never experienced results like this. It feels like my plants are growing twice as high and my roots are twice as thick. Bill and Daniel truly understand what it takes to get your soil to perform and you need to buy this today."
           }
         },
@@ -169,6 +221,8 @@
           "settings": {
             "slide-img": "shopify:\/\/shop_images\/star5.png",
             "slide-name": "Rebecca",
+            "slide-city": "",
+            "slide-state": "",
             "slide-description": "Will keep this short and sweet. Best. Soil. Ever. Seriously it’s worth the price. My garden grew twice as well last year just with this soil."
           }
         },
@@ -177,6 +231,8 @@
           "settings": {
             "slide-img": "shopify:\/\/shop_images\/star5.png",
             "slide-name": "David",
+            "slide-city": "",
+            "slide-state": "",
             "slide-description": "I was skeptical at first. After all, the price of this organic soil is much higher than normal, but not nearly as high as others. I have to say, my doubts about this product were quickly removed. What normally took 7 to 8 weeks only took around 6. Not only did my plants grow faster, they grew bigger and were more luscious. Daniel wasn’t kidding when he said the worm castings would bring my garden to life. What an incredible product!"
           }
         },
@@ -185,6 +241,8 @@
           "settings": {
             "slide-img": "shopify:\/\/shop_images\/star5.png",
             "slide-name": "Liene",
+            "slide-city": "",
+            "slide-state": "",
             "slide-description": "The garden soil is amazing, one of the best by far.  My mom had some trouble with her garden until I shared my soil with her, the growth took a 180-degree turn, it was so luscious that she was able to share many vegetables with me this year, definitely looking to buy again next year."
           }
         },
@@ -193,6 +251,8 @@
           "settings": {
             "slide-img": "shopify:\/\/shop_images\/star5.png",
             "slide-name": "Sarah",
+            "slide-city": "",
+            "slide-state": "",
             "slide-description": "Perfect soil. Everything I put on the ground is growing. And this is was my first time to do gardening in my back yard. Thanks, I will order next year!"
           }
         }
@@ -216,6 +276,7 @@
   "order": [
     "image_banner",
     "16410247051dbd54f4",
+    "1641115458421f4b82",
     "16408619634fa92726"
   ]
 }
