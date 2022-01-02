@@ -87,8 +87,8 @@
       "header-top-bar": {
         "type": "header-top-bar",
         "settings": {
-          "section-tel": "123456789",
-          "section-email": "example@example.com"
+          "section-tel": "(416) 769-1428",
+          "section-email": "info@purelifesoil.com"
         }
       }
     },
