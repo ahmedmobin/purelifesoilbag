@@ -1212,6 +1212,7 @@ deferred-media {
   transition: box-shadow var(--duration-short) ease;
   -webkit-appearance: none;
   appearance: none;
+  border-radius:3px;
 }
 
 .button:focus-visible {
