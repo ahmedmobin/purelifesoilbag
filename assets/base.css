@@ -2378,6 +2378,19 @@ details-disclosure > details {
     color: #000;
     margin: 0;
 }
+.main-banner .banner__content.banner__content--middle-center {
+    justify-content: left;
+}
+.main-banner h2.banner__heading {
+    font-size: 3.4rem;
+    font-weight: 400;
+}
+.main-banner .banner__text.subtitle {
+    font-size: 7.4rem;
+    color: #fff;
+    font-weight: 700;
+    line-height: 9.4rem;
+}
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
