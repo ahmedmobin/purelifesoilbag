@@ -112,12 +112,85 @@
         "show_text_below": false,
         "custom_class": "spin-wheel"
       }
+    },
+    "1641230570463754b7": {
+      "type": "items-slider",
+      "blocks": {
+        "5370a69c-4301-4e07-a291-449dea0269fa": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Liene",
+            "slide-city": "City",
+            "slide-state": "State",
+            "slide-description": "The garden soil is amazing, one of the best by far.  My mom had some trouble with her garden until I shared my soil with her, the growth took a 180-degree turn, it was so luscious that she was able to share many vegetables with me this year, definitely looking to buy again next year."
+          }
+        },
+        "ed9edf40-8168-4bed-9014-707f2990f922": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Sarah",
+            "slide-city": "",
+            "slide-state": "",
+            "slide-description": "Perfect soil. Everything I put on the ground is growing. And this is was my first time to do gardening in my back yard. Thanks, I will order next year!"
+          }
+        },
+        "93c287ce-1214-42e9-9d51-1f38d9986381": {
+          "type": "slider",
+          "settings": {
+            "slide-name": "",
+            "slide-city": "",
+            "slide-state": "",
+            "slide-description": ""
+          }
+        },
+        "bef97453-36bc-454e-8b11-c49b1d5f58de": {
+          "type": "slider",
+          "settings": {
+            "slide-name": "",
+            "slide-city": "",
+            "slide-state": "",
+            "slide-description": ""
+          }
+        },
+        "c8830fa2-8845-417e-b097-7e573d730f2e": {
+          "type": "slider",
+          "settings": {
+            "slide-name": "",
+            "slide-city": "",
+            "slide-state": "",
+            "slide-description": ""
+          }
+        },
+        "6a6628aa-8fc6-48d6-9af2-c5f913fed0d9": {
+          "type": "slider",
+          "settings": {
+            "slide-name": "",
+            "slide-city": "",
+            "slide-state": "",
+            "slide-description": ""
+          }
+        }
+      },
+      "block_order": [
+        "5370a69c-4301-4e07-a291-449dea0269fa",
+        "ed9edf40-8168-4bed-9014-707f2990f922",
+        "93c287ce-1214-42e9-9d51-1f38d9986381",
+        "bef97453-36bc-454e-8b11-c49b1d5f58de",
+        "c8830fa2-8845-417e-b097-7e573d730f2e",
+        "6a6628aa-8fc6-48d6-9af2-c5f913fed0d9"
+      ],
+      "settings": {
+        "slider-heading": ""
+      }
     }
   },
   "order": [
     "main",
     "1641228960300cea23",
     "1641230563c2d8c62b",
-    "16412298855ec48ea3"
+    "16412298855ec48ea3",
+    "1641230570463754b7"
   ]
 }
