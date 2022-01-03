@@ -2397,6 +2397,82 @@ details-disclosure > details {
     margin: 0 0 10px;
     font-size: 4rem;
 }
+.testimonial-info {
+  padding: 30px 33px 30px;
+  position: relative;
+  background: #fff;
+  box-shadow: 0 9px 18px rgb(0 0 0 / 8%), 0 5px 7px rgb(0 0 0 / 5%);
+  border-radius: 8px;
+  margin-top: 30px;
+  transition: .45s;
+  height:100%;
+}
+.testimonial-inner {
+    margin: 0 20px;
+    height:100%;
+  }
+  .items-slider {
+    position: relative;
+  }
+  .slick-track{ display: flex !important; }
+  .slick-slide{ height: inherit !important; }
+  .slick-dots {
+    position: absolute;
+    bottom: -45px;
+    display: block;
+    width: 100%;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+  }
+  .slick-dots li {
+    position: relative;
+    display: inline-block;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer;
+  }
+  .slick-slider .slick-dots li button {
+    width: 10px;
+    height: 4px;
+    background-color: #e0e0e0;
+    border: none;
+    font-size: 0;
+    padding: 0;
+    line-height: 0;
+    cursor: pointer;
+    -moz-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear;
+    transition-timing-function: ease;
+  }
+  .slick-slider .slick-dots .slick-active button {
+    background: #67308f;
+    width: 30px;
+  }
+  .slick-prev {
+    left: 0;
+    transform: rotate(180deg);
+  }
+
+  .slick-next {
+    right: 0;
+  }
+
+  .slick-arrow {
+    top: 50%;
+    height: 26px;
+    width: 14px;
+    margin-top: -13px;
+    position: absolute;
+    font-size: 0;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    background-image: url(https://tarkikromanski.github.io/files/arrow-slider.png);
+    background-repeat: no-repeat;
+  }
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
