@@ -8,26 +8,19 @@
     "1641228960300cea23": {
       "type": "image-banner",
       "blocks": {
-        "1641228960126f3740-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "large"
-          }
-        },
         "1641228960126f3740-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text": "We Are PureLifeSoilBag",
+            "text_style": "subtitle"
           }
         },
         "1641228960126f3740-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "ORDER NOW",
             "button_label_id": "",
-            "button_link_1": "",
+            "button_link_1": "#",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -36,7 +29,6 @@
         }
       },
       "block_order": [
-        "1641228960126f3740-0",
         "1641228960126f3740-1",
         "1641228960126f3740-2"
       ],
