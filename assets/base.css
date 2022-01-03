@@ -2401,7 +2401,7 @@ details-disclosure > details {
     margin: 0 0 10px;
     font-size: 4rem;
 }
-.testimonial-info {
+.slider-section .testimonial-info {
   padding: 30px 33px 30px;
   position: relative;
   background: #fff;
@@ -2411,10 +2411,13 @@ details-disclosure > details {
   transition: .45s;
   height:100%;
 }
-.testimonial-inner {
+.slider-section .testimonial-inner {
     margin: 0 20px;
     height:100%;
   }
+.slider-section   .testimonial-info img {
+    margin: 6px 0 10px;
+}
 .slider-section .items-slider {
     position: relative;
   }
