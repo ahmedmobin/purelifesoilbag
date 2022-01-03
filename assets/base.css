@@ -2482,7 +2482,7 @@ details-disclosure > details {
     background-repeat: no-repeat;
   }
   .slider-section .slick-list{ padding-bottom:80px; }
-  .sping-wheel h2{ font-size:6rem; }
+  .spin-wheel h2{ font-size:6rem; font-weight:700; }
   
 @media screen and (forced-colors: active) {
   .icon {
