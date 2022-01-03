@@ -1206,7 +1206,7 @@ deferred-media {
   border-radius: 0;
   background-color: #673092;
   box-shadow: 0 0 0 0.1rem rgba(var(--color-button), var(--alpha-button-border));
-  color: rgb(var(--color-button-text));
+  color: #fff;
   min-width: 12rem;
   min-height: 4.5rem;
   transition: box-shadow var(--duration-short) ease;
