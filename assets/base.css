@@ -2391,6 +2391,12 @@ details-disclosure > details {
     font-weight: 700;
     line-height: 9.4rem;
 }
+/* Slider */
+.slider-section h2 {
+    text-align: center;
+    margin: 0 0 10px;
+    font-size: 4rem;
+}
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
