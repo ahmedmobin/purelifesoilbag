@@ -2392,6 +2392,7 @@ details-disclosure > details {
     line-height: 9.4rem;
 }
 /* Slider */
+  .slider-section .slider-section{ padding: 0 0 30px; }
 .slider-section h2 {
     text-align: center;
     margin: 0 0 10px;
