@@ -47,19 +47,19 @@
         "custom_class": "main-banner"
       }
     },
-    "1641229241bd1e9e4c": {
+    "1641230563c2d8c62b": {
       "type": "featured-collection",
       "settings": {
         "title": "Featured collection",
-        "collection": "frontpage",
+        "collection": "",
         "products_to_show": 4,
         "show_view_all": true,
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": true,
+        "show_secondary_image": false,
+        "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": true,
+        "show_vendor": false,
         "show_rating": false
       }
     },
@@ -99,6 +99,7 @@
         "16412298849f537e1d-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/banner-gardening-tips.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
@@ -116,7 +117,7 @@
   "order": [
     "main",
     "1641228960300cea23",
-    "1641229241bd1e9e4c",
+    "1641230563c2d8c62b",
     "16412298855ec48ea3"
   ]
 }
