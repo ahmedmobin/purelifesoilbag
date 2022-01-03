@@ -2493,7 +2493,7 @@ details-disclosure > details {
     stroke: CanvasText;
   }
 }
-  @media screen and (max-width:767px){
+  @media screen and (max-width:768px){
     .header-top-bar ul{ overflow:hidden; }
     .header-top-bar ul li span{ display:none; }
     .header-top-bar ul li{ float:right; margin:0; }
