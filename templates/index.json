@@ -104,8 +104,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/about-purelifesoilbag.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "small",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -274,6 +274,7 @@
         "fb403b68-2cf1-4080-a691-94f983ff6eea"
       ],
       "settings": {
+        "slider-heading": ""
       }
     }
   },
