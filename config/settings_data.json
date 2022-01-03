@@ -39,11 +39,18 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "footer-1": {
+            "type": "text",
+            "settings": {
+              "heading": "Heading",
+              "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Company",
+              "menu": "footer-company"
             }
           },
           "22006ded-0b2d-4036-a190-b481a1f97404": {
@@ -52,27 +59,12 @@
               "heading": "Quick links",
               "menu": "footer"
             }
-          },
-          "9944519f-dce8-49be-a52a-adcd73c77cd5": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
-          "footer-1": {
-            "type": "text",
-            "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
-            }
           }
         },
         "block_order": [
+          "footer-1",
           "footer-0",
-          "22006ded-0b2d-4036-a190-b481a1f97404",
-          "9944519f-dce8-49be-a52a-adcd73c77cd5",
-          "footer-1"
+          "22006ded-0b2d-4036-a190-b481a1f97404"
         ],
         "settings": {
           "color_scheme": "background-1",
@@ -87,6 +79,7 @@
       "header-top-bar": {
         "type": "header-top-bar",
         "settings": {
+          "section-bg": "#673092",
           "section-tel": "(416) 769-1428",
           "section-email": "info@purelifesoil.com"
         }
