@@ -20,13 +20,13 @@
         "7a87d14a-3eb4-41a8-b53a-40e13e2b35da": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "ORDER NOW",
             "button_label_id": "",
             "button_link_1": "",
-            "button_style_secondary_1": true,
-            "button_label_2": "Button label",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
             "button_link_2": "",
-            "button_style_secondary_2": true
+            "button_style_secondary_2": false
           }
         }
       },
@@ -46,7 +46,8 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": true,
+        "custom_class": ""
       }
     },
     "16410247051dbd54f4": {
@@ -152,7 +153,8 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": false
+        "show_text_below": false,
+        "custom_class": ""
       }
     },
     "16408619634fa92726": {
