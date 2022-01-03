@@ -139,37 +139,81 @@
         "93c287ce-1214-42e9-9d51-1f38d9986381": {
           "type": "slider",
           "settings": {
-            "slide-name": "",
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Kevin",
             "slide-city": "",
             "slide-state": "",
-            "slide-description": ""
+            "slide-description": "Honestly, the best transaction ever. Daniel was professional and very informative. The boss did a great job hiring him. Bill took my payment over the phone and it was smooth as silk. Look forward to buying again next year!"
           }
         },
         "bef97453-36bc-454e-8b11-c49b1d5f58de": {
           "type": "slider",
           "settings": {
-            "slide-name": "",
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Gagandeep",
             "slide-city": "",
             "slide-state": "",
-            "slide-description": ""
+            "slide-description": "What a terrific product. The soil was so rich in nutrients that it brought my rather dead garden back to life in less than a month and then some. I’ve never seen broccoli and beanstalks grow like this. This feels like a revolutionary product and will order again next year."
           }
         },
         "c8830fa2-8845-417e-b097-7e573d730f2e": {
           "type": "slider",
           "settings": {
-            "slide-name": "",
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Amy",
             "slide-city": "",
             "slide-state": "",
-            "slide-description": ""
+            "slide-description": "Shock, I’m truly in shock. I didn’t know results like this were possible. Pure Life has changed my perception of what an organic soil can do for you. It’s totally worth the extra cost!"
           }
         },
         "6a6628aa-8fc6-48d6-9af2-c5f913fed0d9": {
           "type": "slider",
           "settings": {
-            "slide-name": "",
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Maria",
             "slide-city": "",
             "slide-state": "",
-            "slide-description": ""
+            "slide-description": "Simply the best product on the market. I’ve never experienced results like this. It feels like my plants are growing twice as high and my roots are twice as thick. Bill and Daniel truly understand what it takes to get your soil to perform and you need to buy this today."
+          }
+        },
+        "754ba556-4c94-4355-9047-efb10c1bdea4": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Rebecca",
+            "slide-city": "",
+            "slide-state": "",
+            "slide-description": "Will keep this short and sweet. Best. Soil. Ever. Seriously it’s worth the price. My garden grew twice as well last year just with this soil."
+          }
+        },
+        "98f2ebe1-4fe7-471b-a555-526cd0abab92": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "David",
+            "slide-city": "",
+            "slide-state": "",
+            "slide-description": "I was skeptical at first. After all, the price of this organic soil is much higher than normal, but not nearly as high as others. I have to say, my doubts about this product were quickly removed. What normally took 7 to 8 weeks only took around 6. Not only did my plants grow faster, they grew bigger and were more luscious. Daniel wasn’t kidding when he said the worm castings would bring my garden to life. What an incredible product!"
+          }
+        },
+        "e3ae164f-6d92-456f-ab9f-2367d78032c0": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Liene",
+            "slide-city": "",
+            "slide-state": "",
+            "slide-description": "The garden soil is amazing, one of the best by far.  My mom had some trouble with her garden until I shared my soil with her, the growth took a 180-degree turn, it was so luscious that she was able to share many vegetables with me this year, definitely looking to buy again next year."
+          }
+        },
+        "2560d43e-f206-4b33-8457-9a0d4ce1ea08": {
+          "type": "slider",
+          "settings": {
+            "slide-img": "shopify:\/\/shop_images\/star5.png",
+            "slide-name": "Sarah",
+            "slide-city": "",
+            "slide-state": "",
+            "slide-description": "Perfect soil. Everything I put on the ground is growing. And this is was my first time to do gardening in my back yard. Thanks, I will order next year!"
           }
         }
       },
@@ -179,7 +223,11 @@
         "93c287ce-1214-42e9-9d51-1f38d9986381",
         "bef97453-36bc-454e-8b11-c49b1d5f58de",
         "c8830fa2-8845-417e-b097-7e573d730f2e",
-        "6a6628aa-8fc6-48d6-9af2-c5f913fed0d9"
+        "6a6628aa-8fc6-48d6-9af2-c5f913fed0d9",
+        "754ba556-4c94-4355-9047-efb10c1bdea4",
+        "98f2ebe1-4fe7-471b-a555-526cd0abab92",
+        "e3ae164f-6d92-456f-ab9f-2367d78032c0",
+        "2560d43e-f206-4b33-8457-9a0d4ce1ea08"
       ],
       "settings": {
         "slider-heading": ""
