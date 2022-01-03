@@ -9,15 +9,15 @@
     "colors_background_2": "#F3F3F3",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
-    "social_twitter_link": "#",
-    "social_facebook_link": "#",
-    "social_pinterest_link": "#",
-    "social_instagram_link": "#",
-    "social_tiktok_link": "#",
-    "social_tumblr_link": "#",
-    "social_snapchat_link": "#",
-    "social_youtube_link": "#",
-    "social_vimeo_link": "#",
+    "social_twitter_link": "https:\/\/purelifesoil.com\/",
+    "social_facebook_link": "https:\/\/purelifesoil.com\/",
+    "social_pinterest_link": "",
+    "social_instagram_link": "https:\/\/purelifesoil.com\/",
+    "social_tiktok_link": "",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -42,22 +42,22 @@
           "footer-1": {
             "type": "text",
             "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
+              "heading": "Address",
+              "subtext": "<p>58 Bertal Road<br\/>Toronto, ON M6M 4M<br\/><br\/><strong>Phone:<\/strong>(416) 769-1428<br\/><strong>Fax:<\/strong>(416) 534-4630<br\/><strong>Email:<\/strong><a href=\"mailto:info@purelifesoil.com\">info@purelifesoil.com<\/a><\/p>"
             }
           },
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Company",
-              "menu": "footer-company"
+              "heading": "Services",
+              "menu": "footer-services"
             }
           },
           "22006ded-0b2d-4036-a190-b481a1f97404": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Company",
+              "menu": "footer-company"
             }
           }
         },
