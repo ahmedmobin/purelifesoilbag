@@ -2353,6 +2353,31 @@ details-disclosure > details {
     text-decoration: none;
 }
   .header-top-bar ul li a:hover{ text-decoration:underline; }
+  
+.about-us-section h2 {
+    font-weight: 700;
+    font-size: 3rem;
+    margin: 0 0 5px;
+}
+.about-us-section h3 {
+    margin: 0;
+    font-size: 6rem;
+    font-weight: 700;
+}
+.about-us-section h4 {
+    font-size: 2.4rem;
+    margin: 0;
+    font-weight: 500;
+}
+.about-us-section .image-with-text__text {
+    margin: 0;
+}
+.about-us-section .image-with-text__text p {
+    font-size: 1.8rem;
+    line-height: 3.6rem;
+    color: #000;
+    margin: 0;
+}
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
