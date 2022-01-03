@@ -2475,7 +2475,7 @@ details-disclosure > details {
     background-image: url(https://tarkikromanski.github.io/files/arrow-slider.png);
     background-repeat: no-repeat;
   }
-  .slider-section .slick-list{ padding-bottom:60px; }
+  .slider-section .slick-list{ padding-bottom:80px; }
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
