@@ -2400,6 +2400,7 @@ details-disclosure > details {
     text-align: center;
     margin: 0 0 10px;
     font-size: 4rem;
+  	font-weight:700;
 }
 .slider-section .testimonial-info {
   padding: 30px 33px 30px;
