@@ -67,7 +67,7 @@
           "settings": {
             "heading": "Pure Life Soil Bag",
             "heading_color": "#121212",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "heading_size": "h1"
           }
         },
@@ -76,7 +76,7 @@
           "settings": {
             "heading": "Not your typical garden center topsoil!",
             "heading_color": "#000000",
-            "heading_tag": "h3",
+            "heading_tag": "h4",
             "heading_size": "h1"
           }
         },
@@ -90,8 +90,8 @@
         "1641024705d9020087-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "#"
+            "button_label": "ABOUT US",
+            "button_link": "shopify:\/\/pages\/about-us"
           }
         }
       },
