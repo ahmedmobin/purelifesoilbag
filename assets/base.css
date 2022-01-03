@@ -2419,13 +2419,14 @@ details-disclosure > details {
 .slider-section .slick-slide{ height: inherit !important; }
 .slider-section .slick-dots {
     position: absolute;
-    bottom: -45px;
+    bottom: 20px;
     display: block;
     width: 100%;
     padding: 0;
     list-style: none;
     text-align: center;
-  }
+	margin:0;  
+}
 .slider-section .slick-dots li {
     position: relative;
     display: inline-block;
