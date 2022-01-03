@@ -216,26 +216,26 @@ html.no-js .no-js-hidden {
   margin-top: 5rem;
 }
 
-.spaced-section {
+/* .spaced-section {
   margin-top: 5rem;
 }
 
 .spaced-section:last-child {
   margin-bottom: 5rem;
-}
+} */
 
 @media screen and (min-width: 750px) {
   .element-margin {
     margin-top: calc(5rem + var(--page-width-margin));
   }
 
-  .spaced-section {
+/*   .spaced-section {
     margin-top: calc(5rem + var(--page-width-margin));
   }
 
   .spaced-section:last-child {
     margin-bottom: calc(5rem + var(--page-width-margin));
-  }
+  } */
 }
 
 .spaced-section--full-width + .spaced-section--full-width {
