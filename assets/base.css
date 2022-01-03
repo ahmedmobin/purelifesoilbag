@@ -2392,6 +2392,9 @@ details-disclosure > details {
     line-height: 9.4rem;
 }
 /* Slider */
+  .slider-section {
+    margin: 60px 0 50px;
+}
 .slider-section .slider-section{ padding: 0 0 30px; }
 .slider-section h2 {
     text-align: center;
@@ -2476,6 +2479,7 @@ details-disclosure > details {
     background-repeat: no-repeat;
   }
   .slider-section .slick-list{ padding-bottom:80px; }
+  
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
