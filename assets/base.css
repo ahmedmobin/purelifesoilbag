@@ -2498,7 +2498,9 @@ details-disclosure > details {
     .header-top-bar ul li span{ display:none; }
     .header-top-bar ul li{ float:right; margin:0; }
     .header-top-bar ul li:first-child{ float:left;}
-    .main-banner h2.banner__heading{ font-size:3rem; line-height:3.4rem; }
-    .main-banner .banner__text.subtitle{ font-size:4rem; line-height:4.4rem }
+    .main-banner h2.banner__heading,
+    .about-us-section h2{ font-size:3rem; line-height:3.4rem; }
+    .main-banner .banner__text.subtitle,
+    .about-us-section h3{ font-size:4rem; line-height:4.4rem }
   }
 
