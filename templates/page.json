@@ -12,7 +12,7 @@
           "type": "heading",
           "settings": {
             "heading": "Image banner",
-            "heading_size": "medium"
+            "heading_size": "large"
           }
         },
         "1641228960126f3740-1": {
@@ -47,12 +47,12 @@
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": ""
+        "custom_class": "main-banner"
       }
     },
     "1641229241bd1e9e4c": {
