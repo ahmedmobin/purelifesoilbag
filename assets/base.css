@@ -2493,4 +2493,7 @@ details-disclosure > details {
     stroke: CanvasText;
   }
 }
+  @media screen and (max-width:767px){
+    .header-top-bar ul li span{ display:none; }
+  }
 
