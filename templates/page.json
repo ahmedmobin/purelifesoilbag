@@ -62,11 +62,61 @@
         "show_vendor": true,
         "show_rating": false
       }
+    },
+    "16412298855ec48ea3": {
+      "type": "image-banner",
+      "blocks": {
+        "16412298849f537e1d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gardening Tips",
+            "heading_size": "medium"
+          }
+        },
+        "16412298849f537e1d-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "16412298849f537e1d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "GET TIPS",
+            "button_label_id": "",
+            "button_link_1": "#",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16412298849f537e1d-0",
+        "16412298849f537e1d-1",
+        "16412298849f537e1d-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "custom_class": "spin-wheel"
+      }
     }
   },
   "order": [
     "main",
     "1641228960300cea23",
-    "1641229241bd1e9e4c"
+    "1641229241bd1e9e4c",
+    "16412298855ec48ea3"
   ]
 }
