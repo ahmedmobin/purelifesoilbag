@@ -143,7 +143,7 @@
         "164137039434e97cdb-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Organic Living Soil Mix - 1 Cubic Yard",
             "heading_color": "#000000",
             "heading_tag": "h2",
             "heading_size": "h1"
@@ -159,8 +159,8 @@
         "164137039434e97cdb-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Buy Now",
+            "button_link": "#"
           }
         }
       },
@@ -170,6 +170,7 @@
         "164137039434e97cdb-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/tote-living-soil.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -187,7 +188,7 @@
         "1641370409b650951d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Organic Worm Castings - 1 Cubic Yard",
             "heading_color": "#000000",
             "heading_tag": "h2",
             "heading_size": "h1"
@@ -203,8 +204,8 @@
         "1641370409b650951d-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Buy Now",
+            "button_link": "#"
           }
         }
       },
@@ -214,10 +215,11 @@
         "1641370409b650951d-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/tote-worm-casting.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -231,7 +233,7 @@
         "16413704254ca87c4e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Organic Lawn Mix - 1 Cubic Yard",
             "heading_color": "#000000",
             "heading_tag": "h2",
             "heading_size": "h1"
@@ -247,8 +249,8 @@
         "16413704254ca87c4e-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Buy Now",
+            "button_link": "#"
           }
         }
       },
@@ -258,6 +260,7 @@
         "16413704254ca87c4e-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/organic_lawn_mix.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
