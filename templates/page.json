@@ -98,7 +98,7 @@
         "164137038135091dab-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Organic Potting Mix - 1 Cubic Yard",
             "heading_color": "#000000",
             "heading_tag": "h2",
             "heading_size": "h1"
@@ -114,8 +114,8 @@
         "164137038135091dab-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Buy Now",
+            "button_link": "#"
           }
         }
       },
@@ -125,6 +125,7 @@
         "164137038135091dab-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/tote-potting-mix.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
