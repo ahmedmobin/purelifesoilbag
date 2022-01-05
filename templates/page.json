@@ -83,8 +83,184 @@
         "image": "shopify:\/\/shop_images\/ezgif-7-2b4e362c7c.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "custom_class": ""
+      }
+    },
+    "1641370381fab44c78": {
+      "type": "image-with-text-advance",
+      "blocks": {
+        "164137038135091dab-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_color": "#000000",
+            "heading_tag": "h2",
+            "heading_size": "h1"
+          }
+        },
+        "164137038135091dab-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "164137038135091dab-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164137038135091dab-0",
+        "164137038135091dab-1",
+        "164137038135091dab-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "custom_class": ""
+      }
+    },
+    "1641370395573218e5": {
+      "type": "image-with-text-advance",
+      "blocks": {
+        "164137039434e97cdb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_color": "#000000",
+            "heading_tag": "h2",
+            "heading_size": "h1"
+          }
+        },
+        "164137039434e97cdb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "164137039434e97cdb-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164137039434e97cdb-0",
+        "164137039434e97cdb-1",
+        "164137039434e97cdb-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "custom_class": ""
+      }
+    },
+    "16413704091cf9d20f": {
+      "type": "image-with-text-advance",
+      "blocks": {
+        "1641370409b650951d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_color": "#000000",
+            "heading_tag": "h2",
+            "heading_size": "h1"
+          }
+        },
+        "1641370409b650951d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1641370409b650951d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1641370409b650951d-0",
+        "1641370409b650951d-1",
+        "1641370409b650951d-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "custom_class": ""
+      }
+    },
+    "1641370425c55bf13c": {
+      "type": "image-with-text-advance",
+      "blocks": {
+        "16413704254ca87c4e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_color": "#000000",
+            "heading_tag": "h2",
+            "heading_size": "h1"
+          }
+        },
+        "16413704254ca87c4e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16413704254ca87c4e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16413704254ca87c4e-0",
+        "16413704254ca87c4e-1",
+        "16413704254ca87c4e-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -284,6 +460,10 @@
     "main",
     "1641228960300cea23",
     "16413691478ba7eab1",
+    "1641370381fab44c78",
+    "1641370395573218e5",
+    "16413704091cf9d20f",
+    "1641370425c55bf13c",
     "16412298855ec48ea3",
     "1641230570463754b7",
     "16412337084091b764"
