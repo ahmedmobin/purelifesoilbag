@@ -881,3 +881,8 @@ class VariantRadios extends VariantSelects {
 }
 
 customElements.define('variant-radios', VariantRadios);
+
+
+document.querySelector("#woohoo-trigger-spinthewheel.button--primary").addEventListener("click", function(event) {
+    event.preventDefault();
+}, false);
