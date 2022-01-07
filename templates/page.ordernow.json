@@ -4,9 +4,26 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "164155485062cc4455": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "tote-bags",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true,
+        "show_rating": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "164155485062cc4455"
   ]
 }
