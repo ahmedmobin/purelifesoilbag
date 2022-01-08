@@ -53,19 +53,10 @@
     "16410247051dbd54f4": {
       "type": "image-with-text-advance",
       "blocks": {
-        "1641024705d9020087-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "About",
-            "heading_color": "#673092",
-            "heading_tag": "h2",
-            "heading_size": "h2"
-          }
-        },
         "736dd43d-bac8-463b-ba52-3bfa2c6b4573": {
           "type": "heading",
           "settings": {
-            "heading": "Pure Life Soil Bag",
+            "heading": "Pure Life Soil",
             "heading_color": "#121212",
             "heading_tag": "h3",
             "heading_size": "h1"
@@ -83,7 +74,7 @@
         "1641024705d9020087-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Getting quality black garden soil and mulch delivered to your home has never been easier than with PureLifeSoilBag. All you have to do is call or order online and we deliver. That’s it! No lugging, no mess and you don’t have to be home to take delivery.<\/p>",
+            "text": "<p>The Purelife Soil Organic Garden Mix contains all the essential nutrients necessary for all plants, both for vegetables and flowers. It is composed of 20% Worm Castings and 40% Plant Based Compost which makes it the richest soil in composted material on the market. You will see an immediate response from your plants.<\/p>",
             "text_style": "body"
           }
         },
@@ -96,7 +87,6 @@
         }
       },
       "block_order": [
-        "1641024705d9020087-0",
         "736dd43d-bac8-463b-ba52-3bfa2c6b4573",
         "e67a3d0a-5294-4ac4-a98c-c8e1eb5ac9dd",
         "1641024705d9020087-1",
