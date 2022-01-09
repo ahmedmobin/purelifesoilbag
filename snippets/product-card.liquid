@@ -55,6 +55,11 @@
           <span class="visually-hidden">{{ product_card_product.metafields.reviews.rating_count }} {{ "accessibility.total_reviews" | t }}</span>
         </p>
       {%- endif -%}
+      <form method="post" action="/cart/add">
+  <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
+  <input min="1" type="number" id="quantity" name="quantity" value="1"/>
+  <input type="submit" value="Add to cart" class="btn" />
+</form>
       {% render 'price', product: product_card_product, price_class: '' %}
     </div>
   </div>
