@@ -36,7 +36,6 @@
         "7a87d14a-3eb4-41a8-b53a-40e13e2b35da"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/purelifebag-home-banner_04799619-4fc6-421d-a644-2fa407d65862.jpg",
         "image_2": "shopify:\/\/shop_images\/purelifebag-home-banner.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
@@ -267,12 +266,31 @@
       "settings": {
         "slider-heading": "Testimonials"
       }
+    },
+    "16417205549cd2c0f2": {
+      "type": "title",
+      "blocks": {
+        "75ce174f-1046-43cd-b749-0a4e12b143a1": {
+          "type": "titlesettings",
+          "settings": {
+            "title-tag": "h1",
+            "header_font_new": "alegreya_n4"
+          }
+        }
+      },
+      "block_order": [
+        "75ce174f-1046-43cd-b749-0a4e12b143a1"
+      ],
+      "settings": {
+        "title-heading": ""
+      }
     }
   },
   "order": [
     "image_banner",
     "16410247051dbd54f4",
     "1641115458421f4b82",
-    "16408619634fa92726"
+    "16408619634fa92726",
+    "16417205549cd2c0f2"
   ]
 }
