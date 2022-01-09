@@ -11,8 +11,15 @@
         "1641228960126f3740-1": {
           "type": "text",
           "settings": {
-            "text": "We Are PureLifeSoilBag",
+            "text": "About PureLife Soil",
             "text_style": "subtitle"
+          }
+        },
+        "3a453b7c-d1d4-4467-940d-18606127d096": {
+          "type": "heading",
+          "settings": {
+            "heading": "We believe that the most important element to growing organic starts with your soil. With that in mind, we have developed the best organic soil in Canada. All of our soil blends are enriched with worm castings and are ready for your planting needs, from seed to flower. All of our soil blends contain only organic ingredients, no synthetics and no fillers",
+            "heading_size": "medium"
           }
         },
         "1641228960126f3740-2": {
@@ -30,6 +37,7 @@
       },
       "block_order": [
         "1641228960126f3740-1",
+        "3a453b7c-d1d4-4467-940d-18606127d096",
         "1641228960126f3740-2"
       ],
       "settings": {
