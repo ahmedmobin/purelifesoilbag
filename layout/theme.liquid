@@ -224,6 +224,7 @@
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
   </body>
+  <script>
   $(document).ready(function() {
   $('.add2cart__collection--button').on('click', function(evt) {
     evt.preventDefault();
@@ -267,4 +268,5 @@
     }
   });
 });
+  </script>
 </html>
