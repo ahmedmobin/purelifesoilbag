@@ -1,12 +1,33 @@
 {% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
+{
+  "name": "Title",
+  "class": "slider-section1",
+  "settings": [
+  	{
+		"type": "text",
+		"id": "title-heading",
+		"label": "Title Heading"
+	}
+  ],
+  "blocks": [
+    {
+    "type": "slider",
+	  "name": "slide",
+      "settings": [
+        {
+          "id": "slide-img",
+          "type": "image_picker",
+          "label": "Select Image"
+        }
+      ]
+    }
+  ],
+  "max_blocks": 20,
+  "presets": [
+    {
+      "name": "Title",
+      "category": "Custom content"
+    }
+  ]
+}
 {% endschema %}
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
