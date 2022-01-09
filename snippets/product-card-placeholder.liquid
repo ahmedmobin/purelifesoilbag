@@ -12,6 +12,11 @@
     <div class="card-information__wrapper">
       <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
       <div class="caption-with-letter-spacing light">{{ 'products.product.vendor' | t }}</div>
+      <form method="post" action="/cart/add">
+        <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
+        <input min="1" type="number" id="quantity" name="quantity" value="1"/>
+        <input type="submit" value="Add to cart" class="btn" />
+      </form>
       {% render 'price' %}
     </div>
   </div>
