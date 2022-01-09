@@ -42,7 +42,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/purelifebag-about-us-main-banner_5f2f2c51-b430-4642-9d79-f1030ac1f293.jpg",
-        "image_overlay_opacity": 10,
+        "image_overlay_opacity": 20,
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
