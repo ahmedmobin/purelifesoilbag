@@ -1,6 +1,6 @@
-<div>
-	<{{ section.blocks.settings.title-heading }}>{{ section.settings.title-heading }}</section.blocks.settings.title-heading>
-</div>
+{% for block in section.blocks %}
+	<{{ block.settings.title-tag }}>{{ block.settings.header_font_title }}</block.settings.title-tag>
+{% endfor %}	
 {% schema %}
 {
   "name": "Title",
@@ -23,10 +23,9 @@
           "label": "Tigle Tag"
         },
 		{
-         "type": "font_picker",
-         "id": "header_font_new",
-         "label": "Font",
-         "default": "work_sans_n6"
+         "type": "text",
+         "id": "header_font_title",
+         "label": "More Title"
        }
       ]
     }
