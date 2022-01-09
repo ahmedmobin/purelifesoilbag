@@ -55,13 +55,11 @@
           <span class="visually-hidden">{{ product_card_product.metafields.reviews.rating_count }} {{ "accessibility.total_reviews" | t }}</span>
         </p>
       {%- endif -%}
-      <form action="/cart/add" method="post">
-{% if product.variants.size == 1 %}
-<input type="hidden" name="id" value="{{ product.variants.first.id }}" />
-{% else %}
-<select name="id">{% for variant in product.variants %}<option value="{{ variant.id }}">{{ variant.title }}</option>{% endfor %}</select>
-{% endif %}
-<div><button type="submit" name="add">Add to cart</button></div>  
+     <form method="post" action="/cart/add">
+  <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
+  <!--<input min="1" type="number" id="quantity" name="quantity" value="1"/> -->
+  <input type="submit" value="Add to cart" class="btn" />
+</form>ton type="submit" name="add">Add to cart</button></div>  
 </form>
       {% render 'price', product: product_card_product, price_class: '' %}
     </div>
