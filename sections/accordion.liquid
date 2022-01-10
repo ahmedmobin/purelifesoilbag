@@ -1,31 +1,16 @@
 <div class="accordionWrapper">
   {% for block in section.blocks %}
 	<div class="accordionItem close">
-      <h2 class="accordionItemHeading">{{block.settings.acc-title}}</h2>
+      <h2 class="accordionItemHeading">
+        <i class="fa fa-plus mr-2 engoc-faq-icon-plus"></i>
+        <i class="fa fa-minus mr-2 engoc-faq-icon-minus"></i>
+        {{block.settings.acc-title}}
+      </h2>
       <div class="accordionItemContent">
         {{block.settings.acc-content}}
       </div>
     </div>
   {% endfor %}
-    <!--<div class="accordionItem close">
-      <h2 class="accordionItemHeading">Accordion items</h2>
-      <div class="accordionItemContent">
-        <p>A JavaScript accordion is made up of a number of expandable/collapsible items. Only one item is ever shown at a time.</p>
-        <p>You can include any content you want inside an accordion item. Here's a bullet list:</p>
-        <ul>
-          <li>List item #1</li>
-          <li>List item #2</li>
-          <li>List item #3</li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="accordionItem close">
-      <h2 class="accordionItemHeading">How to use a JavaScript accordion</h2>
-      <div class="accordionItemContent">
-        <p>Click an accordion item's heading to expand it. To collapse the item, click it again, or click another item heading.</p>
-      </div>
-    </div>-->
 </div>
 {% schema %}
   {
