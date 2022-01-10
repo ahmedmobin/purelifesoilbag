@@ -52,7 +52,7 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner"
+        "custom_class": "main-banner au"
       }
     },
     "164180012772ff43af": {
@@ -92,7 +92,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/purelifebag-about-us-p1.jpg",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 60,
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
@@ -102,7 +102,7 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner"
+        "custom_class": "main-banner au b-r"
       }
     },
     "1641800147cf0f4434": {
@@ -142,7 +142,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/purelifebag-about-us-p2.jpg",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 60,
         "image_height": "medium",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
@@ -192,7 +192,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/purelifebag-about-us-p3.jpg",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 60,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -242,7 +242,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/purelifebag-about-us-p4.jpg",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 60,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -292,7 +292,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/purelifebag-about-us-p5.jpg",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 60,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
