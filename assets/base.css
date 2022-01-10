@@ -2512,6 +2512,10 @@ details-disclosure > details {
 border-radius: 3px;
         box-sizing: border-box;
 }
+.acc-title{ 
+	display:inline-block;
+  	vertical-align:middle; 
+}
 .accordionItemHeading .icon-plus, 
 .accordionItemHeading .icon-minus {
   width: 18px;
