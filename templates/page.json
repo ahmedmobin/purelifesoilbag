@@ -252,7 +252,7 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner"
+        "custom_class": "main-banner au b-r"
       }
     },
     "164180139105af504c": {
@@ -302,7 +302,7 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner"
+        "custom_class": "main-banner au"
       }
     },
     "16413691478ba7eab1": {
