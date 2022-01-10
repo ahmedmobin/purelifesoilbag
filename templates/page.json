@@ -528,25 +528,25 @@
         "1641800147ffefbded-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Premium Organic Potting Mix",
             "heading_size": "medium"
           }
         },
         "1641800147ffefbded-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Purelife Premium Potting Mix is composed of the perfect balance of nutrients which can be used on indoor and\/or outdoor plants and growing. Purelife includes 20% organic worm castings, 40% composted organic plant-based material, organic sphagnum peat moss and perlite to create a beautifully beneficial environment for your plants to experience immense growth. The mix is composed of organic ingredients and only requires you to add the necessary amount of water.",
             "text_style": "body"
           }
         },
         "1641800147ffefbded-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Buy Now",
             "button_label_id": "",
-            "button_link_1": "",
+            "button_link_1": "shopify:\/\/collections",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
