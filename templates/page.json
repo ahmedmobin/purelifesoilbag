@@ -721,6 +721,31 @@
         "show_text_below": false,
         "custom_class": ""
       }
+    },
+    "1641805515544436f9": {
+      "type": "accordion",
+      "blocks": {
+        "771cd466-2547-4aaf-9a1c-6317352c3ea3": {
+          "type": "accordion-item",
+          "settings": {
+            "acc-title": "Accordion Title",
+            "acc-content": "Accordion Content"
+          }
+        },
+        "62c4dfe8-76c7-4bdc-bb0c-b13b3ba91665": {
+          "type": "accordion-item",
+          "settings": {
+            "acc-title": "Accordion Title",
+            "acc-content": "Accordion Content"
+          }
+        }
+      },
+      "block_order": [
+        "771cd466-2547-4aaf-9a1c-6317352c3ea3",
+        "62c4dfe8-76c7-4bdc-bb0c-b13b3ba91665"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -738,6 +763,7 @@
     "1641370425c55bf13c",
     "16412298855ec48ea3",
     "1641230570463754b7",
-    "16412337084091b764"
+    "16412337084091b764",
+    "1641805515544436f9"
   ]
 }
