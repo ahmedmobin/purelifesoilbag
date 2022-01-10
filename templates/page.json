@@ -658,6 +658,7 @@
         "1641800972aa730444-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/purelifebag-about-us-p4.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
