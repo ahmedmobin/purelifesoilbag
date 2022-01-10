@@ -97,7 +97,7 @@
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
@@ -112,7 +112,7 @@
           "type": "heading",
           "settings": {
             "heading": "Premium Organic Potting Mix",
-            "heading_size": "medium"
+            "heading_size": "large"
           }
         },
         "1641800147ffefbded-1": {
@@ -144,10 +144,10 @@
         "image": "shopify:\/\/shop_images\/purelifebag-about-us-p2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
@@ -162,7 +162,7 @@
           "type": "heading",
           "settings": {
             "heading": "Premium Organic Lawn Mix",
-            "heading_size": "medium"
+            "heading_size": "large"
           }
         },
         "16418007193f837bfb-1": {
@@ -196,8 +196,8 @@
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
@@ -212,7 +212,7 @@
           "type": "heading",
           "settings": {
             "heading": "Premium Living Soil Mix",
-            "heading_size": "medium"
+            "heading_size": "large"
           }
         },
         "1641800972aa730444-1": {
@@ -246,8 +246,8 @@
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
@@ -262,7 +262,7 @@
           "type": "heading",
           "settings": {
             "heading": "Premium Organic Worm Castings",
-            "heading_size": "medium"
+            "heading_size": "large"
           }
         },
         "1641801391c082977f-1": {
@@ -296,8 +296,8 @@
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
