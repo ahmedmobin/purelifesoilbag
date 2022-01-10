@@ -572,7 +572,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/gardening-tips.jpg",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 60,
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
