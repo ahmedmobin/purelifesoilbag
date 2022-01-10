@@ -671,6 +671,56 @@
         "show_text_below": true,
         "custom_class": ""
       }
+    },
+    "164180139105af504c": {
+      "type": "image-banner",
+      "blocks": {
+        "1641801391c082977f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium Organic Worm Castings",
+            "heading_size": "medium"
+          }
+        },
+        "1641801391c082977f-1": {
+          "type": "text",
+          "settings": {
+            "text": "Our premium organic earthworm castings work with your soil to promote plant growth and root structure. Our tote contains essential plant nutrients and beneficial micro-organisms which increase moisture retention and optimizes growth. The castings can be used both indoor or outdoor for seed germination, seedling propagation, and on existing plants. We recommend creating a mixture that consists of 80%-85% of existing soil and 15%-20% of our premium organic castings.",
+            "text_style": "body"
+          }
+        },
+        "1641801391c082977f-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy Now",
+            "button_label_id": "",
+            "button_link_1": "#",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1641801391c082977f-0",
+        "1641801391c082977f-1",
+        "1641801391c082977f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/purelifebag-about-us-p5.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "custom_class": ""
+      }
     }
   },
   "order": [
@@ -687,6 +737,7 @@
     "164180012772ff43af",
     "1641800147cf0f4434",
     "1641800719ad0e25ca",
-    "164180097271a79654"
+    "164180097271a79654",
+    "164180139105af504c"
   ]
 }
