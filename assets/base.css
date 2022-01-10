@@ -2496,9 +2496,9 @@ details-disclosure > details {
   .accordionItem{
     float:left;
     display:block;
-    width:100%;
+    width: calc(50% - 30px);
     box-sizing: border-box;
-    font-family:'Open-sans',Arial,sans-serif;
+    
 }
 .accordionItemHeading{
     cursor:pointer;
