@@ -728,21 +728,69 @@
         "771cd466-2547-4aaf-9a1c-6317352c3ea3": {
           "type": "accordion-item",
           "settings": {
-            "acc-title": "Accordion Title",
-            "acc-content": "Accordion Content"
+            "acc-title": "How much of the worm castings should I be using per plant?",
+            "acc-content": "We recommend that you mix 20% worm castings with 80% soil. However, if you plant needs immediate support or it is too late to create a mix, simply apply 2 teaspoons or tablespoons of worm castings to the base of the plant depending on the size and age of the plant."
           }
         },
         "62c4dfe8-76c7-4bdc-bb0c-b13b3ba91665": {
           "type": "accordion-item",
           "settings": {
-            "acc-title": "Accordion Title",
-            "acc-content": "Accordion Content"
+            "acc-title": "How long until I see results from worm castings?",
+            "acc-content": "Just about immediately! Your plants will start showing results within one week. If the plant is suffering and is malnourished, apply a tablespoon of worm castings and some water to the base of the plant and watch it raise!"
+          }
+        },
+        "e93fc091-8d88-404f-a3a9-7bf93e90272e": {
+          "type": "accordion-item",
+          "settings": {
+            "acc-title": "What amendments do you use?",
+            "acc-content": "We use the highest quality ingredients to get the perfect growing medium. We include 15-20% of worm castings in our potting and garden mixes along with sphagnum, peat loam, and plant-based compost. The potting mix also includes perlite. A list of ingredients\/amendments that we use are: Perlite, Vermiculite, Zeolite, Sphagnum, Alfalfa Meal, Bone Meal, Feather Meal, Insect Frass, Langbeinite, Peat Loam, Dolomite"
+          }
+        },
+        "4b1a4323-1bbd-44c2-bf52-78ad07b05029": {
+          "type": "accordion-item",
+          "settings": {
+            "acc-title": "Which mix is best for cannabis?",
+            "acc-content": "We recommend the living soil mix as it is certified organic and includes many amendments to help all types of plants."
+          }
+        },
+        "2b6de38f-8b3d-45db-a920-9a5bc6a59254": {
+          "type": "accordion-item",
+          "settings": {
+            "acc-title": "Are you certified organic?",
+            "acc-content": "ES! The worm castings are certified organic by Pro-cert Organic Systems (Canadian) and OMRI (American), and our living soil is Pro-Cert certified. Our other mixes have not yet been certified organic as we have not applied for it, but we can assure we only use organic components."
+          }
+        },
+        "0442f6e5-c464-40bd-b8ff-c2999a365f98": {
+          "type": "accordion-item",
+          "settings": {
+            "acc-title": "What payment methods do you accept?",
+            "acc-content": "We accept credit cards through the website or over the phone. We also accept E-transfers via e-mail or we can apply payment in person."
+          }
+        },
+        "83550cb9-c642-4929-aa46-6da5dba867c6": {
+          "type": "accordion-item",
+          "settings": {
+            "acc-title": "What are your delivery fees?",
+            "acc-content": "Our delivery fees are generated at checkout and are dependent on the zone you live in. The zones are based on distance from the warehouse."
+          }
+        },
+        "ed0f9d21-9d6a-4af6-99df-3a0a1420d9bc": {
+          "type": "accordion-item",
+          "settings": {
+            "acc-title": "How do you handle refunds, returns and\/or exchanges?",
+            "acc-content": "We currently deal with exchange returns and refunds on a personal basis and encourage customers to be patient as the results are worth it!"
           }
         }
       },
       "block_order": [
         "771cd466-2547-4aaf-9a1c-6317352c3ea3",
-        "62c4dfe8-76c7-4bdc-bb0c-b13b3ba91665"
+        "62c4dfe8-76c7-4bdc-bb0c-b13b3ba91665",
+        "e93fc091-8d88-404f-a3a9-7bf93e90272e",
+        "4b1a4323-1bbd-44c2-bf52-78ad07b05029",
+        "2b6de38f-8b3d-45db-a920-9a5bc6a59254",
+        "0442f6e5-c464-40bd-b8ff-c2999a365f98",
+        "83550cb9-c642-4929-aa46-6da5dba867c6",
+        "ed0f9d21-9d6a-4af6-99df-3a0a1420d9bc"
       ],
       "settings": {
       }
