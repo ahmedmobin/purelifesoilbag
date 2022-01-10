@@ -3,7 +3,8 @@
   {% for block in section.blocks %}
 	<div class="accordionItem close">
       <h2 class="accordionItemHeading">
-        <i class="fa fa-plus mr-2 engoc-faq-icon-plus"></i>
+        {% render 'icon-plus' %}
+        {% render 'icon-minus' %}
         <i class="fa fa-minus mr-2 engoc-faq-icon-minus"></i>
         {{block.settings.acc-title}}
       </h2>
