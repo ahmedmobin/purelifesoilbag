@@ -471,6 +471,105 @@
         "show_text_below": false,
         "custom_class": ""
       }
+    },
+    "164180012772ff43af": {
+      "type": "image-banner",
+      "blocks": {
+        "1641800127a8ed7f65-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium Organic Garden Mix",
+            "heading_size": "medium"
+          }
+        },
+        "1641800127a8ed7f65-1": {
+          "type": "text",
+          "settings": {
+            "text": "This blend is used primarily for raised vegetable gardens and flower beds. The vegetable garden mix contains everything you need to get your garden in full bloom. About 15-20% of this bag is made up of Purelife premium organic worm castings which work to feed your soil which then feeds your plants the nutrients they need. Working together with 40% composted organic plant-based material, all ingredients are organic and highly sustainable to help protect the environment. The essential plant nutrients and beneficial micro-organisms work to promote root structure, moisture retention, and plant growth. As the mix already includes the perfect blend of nutrients, just simply add the appropriate amount of water to your garden.",
+            "text_style": "body"
+          }
+        },
+        "1641800127a8ed7f65-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_label_id": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1641800127a8ed7f65-0",
+        "1641800127a8ed7f65-1",
+        "1641800127a8ed7f65-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/purelifebag-about-us-p1.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "custom_class": "main-banner"
+      }
+    },
+    "1641800147cf0f4434": {
+      "type": "image-banner",
+      "blocks": {
+        "1641800147ffefbded-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "1641800147ffefbded-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1641800147ffefbded-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_label_id": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1641800147ffefbded-0",
+        "1641800147ffefbded-1",
+        "1641800147ffefbded-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "custom_class": ""
+      }
     }
   },
   "order": [
@@ -483,6 +582,8 @@
     "1641370425c55bf13c",
     "16412298855ec48ea3",
     "1641230570463754b7",
-    "16412337084091b764"
+    "16412337084091b764",
+    "164180012772ff43af",
+    "1641800147cf0f4434"
   ]
 }
