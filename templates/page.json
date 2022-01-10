@@ -558,6 +558,57 @@
         "1641800147ffefbded-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/purelifebag-about-us-p2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "custom_class": ""
+      }
+    },
+    "1641800719ad0e25ca": {
+      "type": "image-banner",
+      "blocks": {
+        "16418007193f837bfb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium Organic Lawn Mix",
+            "heading_size": "medium"
+          }
+        },
+        "16418007193f837bfb-1": {
+          "type": "text",
+          "settings": {
+            "text": "This triple screened blend is primarily used for enhancing, improving or sustaining a beautiful lawn. The lawn mix contains everything you need to get your lawn looking healthy and beautiful. About 15-20% of this bag is made up of Purelife premium organic worm castings which work to feed your soil which then feeds your lawn the nutrients it needs. Working together with composted material and the worm castings, this triple screened blend can be topically applied to your existing lawn. It will improve the lawn’s root structure and help with the growth of the overseeded applications. You will see immediate and fantastic results!",
+            "text_style": "body"
+          }
+        },
+        "16418007193f837bfb-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy Now",
+            "button_label_id": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16418007193f837bfb-0",
+        "16418007193f837bfb-1",
+        "16418007193f837bfb-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/purelifebag-about-us-p3.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -584,6 +635,7 @@
     "1641230570463754b7",
     "16412337084091b764",
     "164180012772ff43af",
-    "1641800147cf0f4434"
+    "1641800147cf0f4434",
+    "1641800719ad0e25ca"
   ]
 }
