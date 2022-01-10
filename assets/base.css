@@ -2493,11 +2493,11 @@ details-disclosure > details {
   .spin-wheel h2{ font-size:6rem; font-weight:700; }
 
   /*Accordion */
-  .accordionItem{
-    float:left;
-    display:block;
-    width: calc(50% - 30px);
-    box-sizing: border-box;
+.accordionItem{
+  float:left;
+  display:block;
+  width: calc(50% - 30px);
+  box-sizing: border-box;
     
 }
 .accordionItemHeading{
