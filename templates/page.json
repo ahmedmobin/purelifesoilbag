@@ -557,7 +557,7 @@
           "settings": {
             "button_label_1": "GET TIPS",
             "button_label_id": "",
-            "button_link_1": "#",
+            "button_link_1": "https:\/\/purelifesoil.com\/blogs\/gardening-tips",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -571,8 +571,8 @@
         "16412298849f537e1d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner-gardening-tips.jpg",
-        "image_overlay_opacity": 0,
+        "image": "shopify:\/\/shop_images\/gardening-tips.jpg",
+        "image_overlay_opacity": 30,
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
