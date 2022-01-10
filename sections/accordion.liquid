@@ -1,13 +1,13 @@
 <div class="accordionWrapper">
+  {% for block in section.blocks %}
 	<div class="accordionItem open">
-      <h2 class="accordionItemHeading">About accordions</h2>
+      <h2 class="accordionItemHeading">{{block.settings.acc-title}}</h2>
       <div class="accordionItemContent">
-        <p>JavaScript accordions let you squeeze a lot of content into a small space in a Web page.</p>
-        <p>This simple accordion degrades gracefully in browsers that don't support JavaScript or CSS.</p>
+        {{block.settings.acc-content}}
       </div>
     </div>
-
-    <div class="accordionItem close">
+  {% endfor %}
+    <!--<div class="accordionItem close">
       <h2 class="accordionItemHeading">Accordion items</h2>
       <div class="accordionItemContent">
         <p>A JavaScript accordion is made up of a number of expandable/collapsible items. Only one item is ever shown at a time.</p>
@@ -25,7 +25,7 @@
       <div class="accordionItemContent">
         <p>Click an accordion item's heading to expand it. To collapse the item, click it again, or click another item heading.</p>
       </div>
-    </div>
+    </div>-->
 </div>
 {% schema %}
   {
