@@ -2384,6 +2384,9 @@ details-disclosure > details {
 .main-banner .banner__content.banner__content--middle-center {
     justify-content: left;
 }
+.main-banner.au.b-r .banner__content.banner__content--middle-center {
+    justify-content: right;
+}
 .main-banner h2.banner__heading {
     font-size: 3.4rem;
     font-weight: 400;
