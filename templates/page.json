@@ -492,9 +492,9 @@
         "1641800127a8ed7f65-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Buy Now",
             "button_label_id": "",
-            "button_link_1": "",
+            "button_link_1": "#",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
