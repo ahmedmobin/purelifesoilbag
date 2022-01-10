@@ -30,7 +30,32 @@
 {% schema %}
   {
     "name": "Accordion",
-    "settings": []
+    "settings": [],
+    "blocks": [
+      {
+      "type": "accordion-item",
+        "name": "Accordion Item",
+        "settings": [
+          {
+            "id": "acc-title",
+            "type": "image_picker",
+            "label": "Accordion Title"
+          },
+          {
+            "id": "acc-content",
+            "type": "text",
+            "label": "Accordion Content"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 20,
+    "presets": [
+      {
+        "name": "Accordion Item",
+        "category": "Custom content"
+      }
+    ]
   }
 {% endschema %}
 
