@@ -2398,10 +2398,11 @@ details-disclosure > details {
     line-height: 9.4rem;
 }
 .main-banner.au{ margin:0 0 30px; }
-  .main-banner.au .banner__text body{ font-weight:700; }
+  .main-banner.au .banner__text body{ font-weight:700; color:#fff; }
   .banner.main-banner.au.b-r.text-shad .banner__box {
     background: rgba(0,0,0,.6) !important;
     padding: 15px 20px;
+     color:#fff;
 }
 /* Slider */
   .slider-section {
