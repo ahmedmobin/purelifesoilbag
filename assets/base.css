@@ -2398,6 +2398,7 @@ details-disclosure > details {
     line-height: 9.4rem;
 }
 .main-banner.au{ margin:0 0 30px; }
+  .main-banner.au .banner__text body{ font-weight:700; }
 /* Slider */
   .slider-section {
     margin: 60px 0 50px;
