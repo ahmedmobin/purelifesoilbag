@@ -315,7 +315,7 @@
         "164136914773a00186-0": {
           "type": "heading",
           "settings": {
-            "heading": "Organic Garden Mix - 1 Cubic Yard",
+            "heading": "Premium Organic Garden Mix",
             "heading_color": "#000000",
             "heading_tag": "h2",
             "heading_size": "h1"
@@ -324,7 +324,7 @@
         "164136914773a00186-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>This blend is used primarily for raised vegetable gardens and flower beds. The vegetable garden mix contains everything you need to get your garden in full bloom. About 15-20% of this bag is made up of Purelife premium organic worm castings which work to feed your soil which then feeds your plants the nutrients they need. Working together with 40% composted organic plant-based material, all ingredients are organic and highly sustainable to help protect the environment. The essential plant nutrients and beneficial micro-organisms work to promote root structure, moisture retention, and plant growth. As the mix already includes the perfect blend of nutrients, just simply add the appropriate amount of water to your garden.<\/p>",
             "text_style": "body"
           }
         },
@@ -332,7 +332,7 @@
           "type": "button",
           "settings": {
             "button_label": "BUY NOW",
-            "button_link": "#"
+            "button_link": "shopify:\/\/pages\/order-now"
           }
         }
       },
@@ -360,7 +360,7 @@
         "164137038135091dab-0": {
           "type": "heading",
           "settings": {
-            "heading": "Organic Potting Mix - 1 Cubic Yard",
+            "heading": "Premium Organic Potting Mix",
             "heading_color": "#000000",
             "heading_tag": "h2",
             "heading_size": "h1"
@@ -369,7 +369,7 @@
         "164137038135091dab-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Purelife Premium Potting Mix is composed of the perfect balance of nutrients which can be used on indoor and\/or outdoor plants and growing. Purelife includes 20% organic worm castings, 40% composted organic plant-based material, organic sphagnum peat moss and perlite to create a beautifully beneficial environment for your plants to experience immense growth. The mix is composed of organic ingredients and only requires you to add the necessary amount of water.<\/p>",
             "text_style": "body"
           }
         },
@@ -377,7 +377,7 @@
           "type": "button",
           "settings": {
             "button_label": "Buy Now",
-            "button_link": "#"
+            "button_link": "shopify:\/\/pages\/order-now"
           }
         }
       },
