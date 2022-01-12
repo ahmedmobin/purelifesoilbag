@@ -52,7 +52,7 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner au"
+        "custom_class": "main-banner au text-b"
       }
     },
     "164180012772ff43af": {
@@ -92,7 +92,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/purelifebag-about-us-p1.jpg",
-        "image_overlay_opacity": 60,
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
@@ -102,11 +102,12 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner au b-r"
+        "custom_class": "main-banner au b-r text-shad"
       }
     },
     "1641800147cf0f4434": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1641800147ffefbded-0": {
           "type": "heading",
@@ -157,6 +158,7 @@
     },
     "1641800719ad0e25ca": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16418007193f837bfb-0": {
           "type": "heading",
@@ -207,6 +209,7 @@
     },
     "164180097271a79654": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1641800972aa730444-0": {
           "type": "heading",
@@ -257,6 +260,7 @@
     },
     "164180139105af504c": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1641801391c082977f-0": {
           "type": "heading",
@@ -307,7 +311,6 @@
     },
     "16413691478ba7eab1": {
       "type": "image-with-text-advance",
-      "disabled": true,
       "blocks": {
         "164136914773a00186-0": {
           "type": "heading",
@@ -353,7 +356,6 @@
     },
     "1641370381fab44c78": {
       "type": "image-with-text-advance",
-      "disabled": true,
       "blocks": {
         "164137038135091dab-0": {
           "type": "heading",
