@@ -2399,6 +2399,10 @@ details-disclosure > details {
 }
 .main-banner.au{ margin:0 0 30px; }
   .main-banner.au .banner__text body{ font-weight:700; }
+  .banner.main-banner.au.b-r.text-shad .banner__box {
+    background: rgba(0,0,0,.6) !important;
+    padding: 15px 20px;
+}
 /* Slider */
   .slider-section {
     margin: 60px 0 50px;
