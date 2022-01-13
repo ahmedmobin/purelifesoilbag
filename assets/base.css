@@ -2404,6 +2404,14 @@ details-disclosure > details {
     padding: 15px 20px;
      color:#fff;
 }
+  
+.banner.main-banner.au.text-shad.full-shad .banner__content {
+  padding: 0;
+  padding-top: 72px;
+}
+.banner.main-banner.au.text-shad.full-shad .banner__box {
+  height: 100%;
+}
 /* Slider */
   .slider-section {
     margin: 60px 0 50px;
