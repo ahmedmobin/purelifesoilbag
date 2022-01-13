@@ -58,7 +58,7 @@
      
       {% render 'price', product: product_card_product, price_class: '' %}
       <form method="post" action="/cart/add">
-  <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
+  <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
   <input type="submit" value="Add to cart" class="btn" />
   <input type="hidden" name="return_to" value="back" />
 </form>
