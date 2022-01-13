@@ -63,7 +63,7 @@
   <input type="hidden" name="return_to" value="back" />
 </form> -->
       <form action="/cart/add" method="post" class="variants" id="product-actions-{{ liquidObject.id }}" enctype="multipart/form-data">
-<input type="hidden" name="id" value="{{ liquidObject.variants[0].id }}" />
+<input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
 <input type="hidden" name="return_to" value="/checkout" />
 <button class="button buynow-btn" title="Buy"><span>Buy now</span></button>
 </form>
