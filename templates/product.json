@@ -70,6 +70,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "image_ratio": "adapt",
@@ -83,11 +84,11 @@
     "1642078287f3cdf2d2": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
-        "collection": "",
+        "title": "You may also like",
+        "collection": "tote-bags",
         "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
+        "show_view_all": false,
+        "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "add_image_padding": false,
