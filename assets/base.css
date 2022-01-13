@@ -2407,10 +2407,10 @@ details-disclosure > details {
   
 .banner.main-banner.au.text-shad.full-shad .banner__content {
   padding: 0;
-  padding-top: 72px;
 }
 .banner.main-banner.au.text-shad.full-shad .banner__box {
   height: 100%;
+  padding-top: 72px;
 }
 /* Slider */
   .slider-section {
