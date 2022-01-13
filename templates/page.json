@@ -107,7 +107,6 @@
     },
     "1641800147cf0f4434": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1641800147ffefbded-0": {
           "type": "heading",
@@ -153,7 +152,7 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner au"
+        "custom_class": "main-banner au text-shad full-shad"
       }
     },
     "1641800719ad0e25ca": {
