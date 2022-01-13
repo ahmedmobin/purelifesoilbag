@@ -57,14 +57,14 @@
       {%- endif -%}
      
       {% render 'price', product: product_card_product, price_class: '' %}
-      <form method="post" action="/cart/add">
+     
+    </div>
+  </div>
+ <form method="post" action="/cart/add">
   <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
   <input type="submit" value="Add to cart" class="btn" />
   <input type="hidden" name="return_to" value="back" />
 </form>
-    </div>
-  </div>
-
   <div class="card card--product{% if product_card_product.featured_media == nil %} card--text-only card--soft{% endif %}{% if product_card_product.featured_media != nil and show_image_outline %} card--outline{% endif %}" tabindex="-1">
     <div class="card__inner">
       {%- if product_card_product.featured_media -%}
