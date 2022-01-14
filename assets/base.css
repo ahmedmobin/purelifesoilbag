@@ -2556,9 +2556,8 @@ border-radius: 3px;
 .open .accordionItemContent{
         padding: 20px;
     background-color: #fff;
-    border: 1px solid #ddd;
+    border-top: 1px solid #f3f3f3;
     width: 100%;
-    margin: 0px 0px 10px 0px;
     display:block;
     -webkit-transform: scaleY(1);
 	-o-transform: scaleY(1);
