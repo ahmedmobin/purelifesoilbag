@@ -152,12 +152,11 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner au text-shad full-shad"
+        "custom_class": "main-banner au text-shad"
       }
     },
     "1641800719ad0e25ca": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "16418007193f837bfb-0": {
           "type": "heading",
@@ -193,7 +192,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/purelifebag-about-us-p3.jpg",
-        "image_overlay_opacity": 60,
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -203,7 +202,7 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner au b-r"
+        "custom_class": "main-banner au b-r1 text-shad"
       }
     },
     "164180097271a79654": {
