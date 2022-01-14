@@ -2515,10 +2515,10 @@ details-disclosure > details {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.08),0 5px 7px rgba(0, 0, 0, 0.02);
   margin: 0 0 20px;
 }
-  .accordionItem.close .icon-plus{ display:block; }
+  .accordionItem.close .icon-plus{ display:inline-block; }
   .accordionItem.close .icon-minus{ display:none; }
   .accordionItem.open .icon-plus{ display:none; }
-  .accordionItem.open .icon-minus{ display:block; }
+  .accordionItem.open .icon-minus{ display:inline-block; }
 .accordionItemHeading{
     cursor:pointer;
     margin:0px 0px 10px 0px;
