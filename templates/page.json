@@ -202,12 +202,11 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner au b-r1 text-shad"
+        "custom_class": "main-banner au b-r text-shad"
       }
     },
     "164180097271a79654": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1641800972aa730444-0": {
           "type": "heading",
@@ -243,7 +242,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/purelifebag-about-us-p4.jpg",
-        "image_overlay_opacity": 60,
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -253,12 +252,11 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner au"
+        "custom_class": "main-banner au text-shad"
       }
     },
     "164180139105af504c": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1641801391c082977f-0": {
           "type": "heading",
@@ -294,7 +292,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/purelifebag-about-us-p5.jpg",
-        "image_overlay_opacity": 60,
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -304,11 +302,12 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner au b-r"
+        "custom_class": "main-banner au b-r text-shad"
       }
     },
     "16413691478ba7eab1": {
       "type": "image-with-text-advance",
+      "disabled": true,
       "blocks": {
         "164136914773a00186-0": {
           "type": "heading",
@@ -354,6 +353,7 @@
     },
     "1641370381fab44c78": {
       "type": "image-with-text-advance",
+      "disabled": true,
       "blocks": {
         "164137038135091dab-0": {
           "type": "heading",
@@ -535,56 +535,6 @@
         "custom_class": ""
       }
     },
-    "16412298855ec48ea3": {
-      "type": "image-banner",
-      "blocks": {
-        "16412298849f537e1d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Gardening Tips",
-            "heading_size": "medium"
-          }
-        },
-        "16412298849f537e1d-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "16412298849f537e1d-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "GET TIPS",
-            "button_label_id": "",
-            "button_link_1": "https:\/\/purelifesoil.com\/blogs\/gardening-tips",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16412298849f537e1d-0",
-        "16412298849f537e1d-1",
-        "16412298849f537e1d-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/gardening-tips.jpg",
-        "image_overlay_opacity": 60,
-        "image_height": "small",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false,
-        "custom_class": "spin-wheel"
-      }
-    },
     "1641230570463754b7": {
       "type": "items-slider",
       "blocks": {
@@ -683,6 +633,56 @@
         "slider-heading": "Testimonials"
       }
     },
+    "16412298855ec48ea3": {
+      "type": "image-banner",
+      "blocks": {
+        "16412298849f537e1d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gardening Tips",
+            "heading_size": "medium"
+          }
+        },
+        "16412298849f537e1d-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "16412298849f537e1d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "GET TIPS",
+            "button_label_id": "",
+            "button_link_1": "https:\/\/purelifesoil.com\/blogs\/gardening-tips",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16412298849f537e1d-0",
+        "16412298849f537e1d-1",
+        "16412298849f537e1d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/gardening-tips.jpg",
+        "image_overlay_opacity": 60,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "custom_class": "spin-wheel"
+      }
+    },
     "16412337084091b764": {
       "type": "image-banner",
       "settings": {
@@ -702,7 +702,6 @@
     },
     "1641805515544436f9": {
       "type": "accordion",
-      "disabled": true,
       "blocks": {
         "771cd466-2547-4aaf-9a1c-6317352c3ea3": {
           "type": "accordion-item",
@@ -788,8 +787,8 @@
     "1641370395573218e5",
     "16413704091cf9d20f",
     "1641370425c55bf13c",
-    "16412298855ec48ea3",
     "1641230570463754b7",
+    "16412298855ec48ea3",
     "16412337084091b764",
     "1641805515544436f9"
   ]
