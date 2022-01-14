@@ -2507,6 +2507,7 @@ details-disclosure > details {
   .spin-wheel h2{ font-size:6rem; font-weight:700; }
 
   /*Accordion */
+  .accordionWrapper{ margin: 20px auto; max-width:660px; }
 .accordionItem{
   float: left;
   display: block;
