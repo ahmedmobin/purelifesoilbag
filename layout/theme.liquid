@@ -232,6 +232,7 @@
         /*For plus and minus buttons*/
         $(buttonPlus).click(function(e) {
             e.preventDefault();
+          console.log(quantity);
             $(this).parent(".quantity").find(".quantity__input").val(parseInt($(this).parent(".quantity").find(".quantity__input").val()) + 1).trigger('input');
         });
 
