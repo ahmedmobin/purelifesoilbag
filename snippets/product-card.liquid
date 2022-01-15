@@ -68,6 +68,19 @@
 	<input min="1" type="number" id="quantity" name="quantity" value="1" />
     <input type="submit" value="Add to cart" class="btn" />
 </form> -->
+      <form method="post" class="quantity" action="/cart/add">
+          <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
+          <button class="quantity__button no-js-hidden" name="minus" type="button">
+          <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
+            {% render 'icon-minus' %}
+          </button>
+          <input min="1" type="number" id="quantity" name="quantity" value="1" />
+        	<button class="quantity__button no-js-hidden" name="plus" type="button">
+          <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: product.title | escape }}</span>
+          {% render 'icon-plus' %}
+        </button>
+          <input type="submit" value="Add to cart" class="btn" />
+      </form>
       <form method="post" action="/cart/add">
       <quantity-input class="quantity">
         <button class="quantity__button no-js-hidden" name="minus" type="button">
@@ -88,7 +101,6 @@
         </button>
         <input type="submit" value="Add to cart" class="btn" />
       </quantity-input>
-        </form>
     </div>
   </div>
 
