@@ -2045,7 +2045,7 @@ input[type='checkbox'] {
 menu-drawer + .header__search {
   display: none;
 }
-
+  .header__search{ display:none !important; }
 .header > .header__search {
   grid-area: left-icon;
   justify-self: start;
