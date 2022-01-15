@@ -228,7 +228,6 @@
       $( document ).ready(function() {
         var buttonPlus = $('#quantity-form .plus-btn');
         var buttonMin = $('#quantity-form .minus-btn');
-        //var quantity = $('#quantity-form .quantity__input');
 		var quantity = $(this).parent(".quantity").find(".quantity__input");
         /*For plus and minus buttons*/
         $(buttonPlus).click(function(e) {
@@ -239,7 +238,6 @@
         buttonMin.click(function(e) {
              e.preventDefault();
             $(this).parent(".quantity").find(".quantity__input").val(Math.max(parseInt($(this).parent(".quantity").find(".quantity__input").val()) - 1, 0)).trigger('input');
-          //$(this).parent(".quantity").find(".quantity__input").val(Math.max(parseInt(quantity.val()) - 1, 0)).trigger('input');
         });
         console.log( "ready!" );
       });
