@@ -2628,6 +2628,9 @@ border-radius: 3px;
     }
   }
   @media screen and (max-width:768px){
+    .shipping-zone ul li {
+  		width: calc(20% - 4px); 
+    }
     .header-top-bar ul{ overflow:hidden; }
     .header-top-bar ul li span{ display:none; }
     .header-top-bar ul li{ float:right; margin:0; }
@@ -2641,3 +2644,8 @@ border-radius: 3px;
     .sping-wheel h2{ padding: 1.5rem 0 2.5rem; }
   }
 
+  @media screen and (max-width:640px){
+  	.shipping-zone ul li {
+  		width: calc(50% - 4px); 
+    }
+  }
