@@ -455,6 +455,7 @@
     },
     "16412337084091b764": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/map.jpg",
         "image_overlay_opacity": 0,
