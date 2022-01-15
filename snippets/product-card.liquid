@@ -75,7 +75,7 @@
           <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
             {% render 'icon-minus' %}
           </button>
-          <input min="1" type="number" id="quantity" name="quantity" value="1" />
+          <input class="quantity__input" min="1" type="number" id="quantity" name="quantity" value="1" />
         	<button class="quantity__button no-js-hidden" name="plus" type="button">
           <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: product.title | escape }}</span>
           {% render 'icon-plus' %}
