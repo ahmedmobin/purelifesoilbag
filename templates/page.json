@@ -550,6 +550,33 @@
         "section_title": "",
         "section_html": "<ul>\n    <li>Toronto<\/li>\n    <li>Mississauga<\/li>\n    <li>North York <\/li>\n    <li>York<\/li>\n    <li>Scarborough<\/li>\n    <li>Milton<\/li>\n    <li>Etobicoke<\/li>\n    <li>Burlington<\/li>\n    <li>Aurora<\/li>\n    <li>Thornhill<\/li>\n    <li>Brampton<\/li>\n    <li>Markham<\/li>\n    <li>Oakville<\/li>\n    <li>Ajax<\/li>\n    <li>Oshawa<\/li>\n    <li>Whitby<\/li>\n    <li>Pickering<\/li>\n    <li>Markham <\/li>\n    <li>Vaughn <\/li>\n    <li>Richmond Hill<\/li> \n    <li>King City<\/li>\n    <li>Aurora<\/li>\n    <li>New Market<\/li>\n<\/ul>"
       }
+    },
+    "1642220755b4755c9e": {
+      "type": "fields-test",
+      "disabled": true,
+      "blocks": {
+        "d5070055-dc98-4dae-8921-437579130863": {
+          "type": "Input-type-blocks",
+          "settings": {
+            "text": "Default Text",
+            "textarea": "Text Area Default Text",
+            "radio_selection": "Option value"
+          }
+        },
+        "255e38ca-2f92-469b-a999-714a7ead14d2": {
+          "type": "Input-type-blocks-new",
+          "settings": {
+            "text_new": "Default"
+          }
+        }
+      },
+      "block_order": [
+        "d5070055-dc98-4dae-8921-437579130863",
+        "255e38ca-2f92-469b-a999-714a7ead14d2"
+      ],
+      "settings": {
+        "text": "Enter your Text"
+      }
     }
   },
   "order": [
@@ -564,6 +591,7 @@
     "16412298855ec48ea3",
     "16412337084091b764",
     "1641805515544436f9",
-    "1642218509766263c7"
+    "1642218509766263c7",
+    "1642220755b4755c9e"
   ]
 }
