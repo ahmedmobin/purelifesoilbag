@@ -2623,7 +2623,7 @@ border-radius: 3px;
   }
 }
   @media screen and (max-width:1024px){
-  	width: calc(20% - 4px);
+  	width: calc(20% - 4px); 
   }
   @media screen and (max-width:768px){
     .header-top-bar ul{ overflow:hidden; }
