@@ -57,7 +57,7 @@
       {%- endif -%}
      
       {% render 'price', product: product_card_product, price_class: '' %}
-      <form method="post" action="/cart/add">
+      <form id="quantity-form" method="post" action="/cart/add">
           <div class="quantity">
           <button class="quantity__button no-js-hidden" name="minus" type="button">
             <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
