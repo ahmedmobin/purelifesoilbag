@@ -2390,6 +2390,11 @@ details-disclosure > details {
 .main-banner h2.banner__heading {
     font-size: 3.4rem;
     font-weight: 400;
+    text-align: left;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
 }
 .main-banner .banner__text.subtitle {
     font-size: 7.4rem;
@@ -2411,7 +2416,13 @@ details-disclosure > details {
   flex-direction: column;
   justify-content: center;
 }
-  
+  .banner.main-banner.text-shad .banner__box .banner__buttons{
+  	  text-align: left;
+      display: block;
+      width: 100%;
+      max-width: 100%;
+}
+  }
 .banner.main-banner.text-shad .banner__content {
   padding: 0;
 }
