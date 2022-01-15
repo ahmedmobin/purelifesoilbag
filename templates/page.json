@@ -42,7 +42,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/purelifebag-about-us-main-banner_5f2f2c51-b430-4642-9d79-f1030ac1f293.jpg",
-        "image_overlay_opacity": 20,
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
@@ -52,7 +52,7 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "main-banner au text-b"
+        "custom_class": "main-banner au  text-shad"
       }
     },
     "164180012772ff43af": {
@@ -513,17 +513,17 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/gardening-tips.jpg",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false,
-        "custom_class": "spin-wheel"
+        "custom_class": "spin-wheel main-banner au  text-shad"
       }
     },
     "1642218509766263c7": {
