@@ -229,12 +229,11 @@
         var add_A = document.querySelector("#quantity-form .plus-btn");
         var quantity_A = document.querySelector("#quantity-form .quantity__input");
 
-        minus_A.addEventListener("click", function(){
-          alert("oye");
-            quantity_A.value--;
+        minus_A.addEventListener("click", function(e){
+            this.quantity_A.value--;
         });
 
-        add_A.addEventListener("click", function() {
+        add_A.addEventListener("click", function(e) {
             quantity_A.value++;
         });
 
