@@ -682,6 +682,73 @@
         "section_title": "Zone 1",
         "section_description": "<p>Free Delivery<\/p>"
       }
+    },
+    "16422128714926db53": {
+      "type": "unordered-list",
+      "blocks": {
+        "de0acfdc-b26c-4f2f-a32b-08b8a72c16e3": {
+          "type": "Item",
+          "settings": {
+            "title": "Pickering",
+            "description": ""
+          }
+        },
+        "39c42c32-00ff-42d4-a15b-f7a359ba2477": {
+          "type": "Item",
+          "settings": {
+            "title": "Markham",
+            "description": ""
+          }
+        },
+        "2297158a-b3ba-4db6-939a-56935bf53350": {
+          "type": "Item",
+          "settings": {
+            "title": "Vaughn",
+            "description": ""
+          }
+        },
+        "639a0deb-d7e1-412a-8123-5dd88f65a177": {
+          "type": "Item",
+          "settings": {
+            "title": "Richmond Hill",
+            "description": ""
+          }
+        },
+        "fbdfded2-43cc-4af7-b2f9-e76fedd762b2": {
+          "type": "Item",
+          "settings": {
+            "title": "King City",
+            "description": ""
+          }
+        },
+        "5aa68216-5381-4179-a211-e2cd958d648e": {
+          "type": "Item",
+          "settings": {
+            "title": "Aurora",
+            "description": ""
+          }
+        },
+        "273079a2-9859-4bb8-b9ef-163ad8a37a0f": {
+          "type": "Item",
+          "settings": {
+            "title": "New Market",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "de0acfdc-b26c-4f2f-a32b-08b8a72c16e3",
+        "39c42c32-00ff-42d4-a15b-f7a359ba2477",
+        "2297158a-b3ba-4db6-939a-56935bf53350",
+        "639a0deb-d7e1-412a-8123-5dd88f65a177",
+        "fbdfded2-43cc-4af7-b2f9-e76fedd762b2",
+        "5aa68216-5381-4179-a211-e2cd958d648e",
+        "273079a2-9859-4bb8-b9ef-163ad8a37a0f"
+      ],
+      "settings": {
+        "section_title": "",
+        "section_description": ""
+      }
     }
   },
   "order": [
@@ -696,6 +763,7 @@
     "16412298855ec48ea3",
     "16412337084091b764",
     "1641805515544436f9",
-    "1642210781339e3c33"
+    "1642210781339e3c33",
+    "16422128714926db53"
   ]
 }
