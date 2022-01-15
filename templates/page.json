@@ -549,13 +549,133 @@
         "3c5b0140-1d4b-41a4-9270-36f3717bf77f": {
           "type": "Item",
           "settings": {
-            "title": "",
+            "title": "Toronto",
+            "description": ""
+          }
+        },
+        "2531144f-fd8b-4923-b592-5f33a6ca3745": {
+          "type": "Item",
+          "settings": {
+            "title": "North York",
+            "description": ""
+          }
+        },
+        "3a098b61-9781-40b2-9293-236842bb4c76": {
+          "type": "Item",
+          "settings": {
+            "title": "Mississauga",
+            "description": ""
+          }
+        },
+        "b13c020c-f5eb-48f1-b00c-eb88b42cb057": {
+          "type": "Item",
+          "settings": {
+            "title": "York",
+            "description": ""
+          }
+        },
+        "ba7475bd-85cd-4d97-bdee-5fdb037565dd": {
+          "type": "Item",
+          "settings": {
+            "title": "Scarborough",
+            "description": ""
+          }
+        },
+        "5a9faa12-c2c3-42d9-ae8e-352952dbc640": {
+          "type": "Item",
+          "settings": {
+            "title": "Milton",
+            "description": ""
+          }
+        },
+        "eabd56f1-fad2-4712-aab7-4239fbf41888": {
+          "type": "Item",
+          "settings": {
+            "title": "Etobicoke",
+            "description": ""
+          }
+        },
+        "e2edfcb3-069f-4671-bac7-21b597ceedc3": {
+          "type": "Item",
+          "settings": {
+            "title": "Burlington",
+            "description": ""
+          }
+        },
+        "e056b218-bb77-4759-8991-933a4308ab31": {
+          "type": "Item",
+          "settings": {
+            "title": "Aurora",
+            "description": ""
+          }
+        },
+        "eec09798-c941-4441-badc-80a9ed2d5816": {
+          "type": "Item",
+          "settings": {
+            "title": "Thornhill",
+            "description": ""
+          }
+        },
+        "42ea032f-aaa3-48c4-a00b-d857847930b8": {
+          "type": "Item",
+          "settings": {
+            "title": "Brampton",
+            "description": ""
+          }
+        },
+        "547a659c-bc94-47f6-8700-993476a0e90f": {
+          "type": "Item",
+          "settings": {
+            "title": "Markham",
+            "description": ""
+          }
+        },
+        "21ba23a8-f09d-443e-adb6-0e309f7eaec6": {
+          "type": "Item",
+          "settings": {
+            "title": "Oakville",
+            "description": ""
+          }
+        },
+        "5d89c93e-8680-4047-bf94-f8a282674a75": {
+          "type": "Item",
+          "settings": {
+            "title": "Ajax",
+            "description": ""
+          }
+        },
+        "4f3383f8-6430-4d86-9d21-7a922498693f": {
+          "type": "Item",
+          "settings": {
+            "title": "Oshawa",
+            "description": ""
+          }
+        },
+        "bfce1815-3009-41d4-b72c-533000ad9585": {
+          "type": "Item",
+          "settings": {
+            "title": "Whitby",
             "description": ""
           }
         }
       },
       "block_order": [
-        "3c5b0140-1d4b-41a4-9270-36f3717bf77f"
+        "3c5b0140-1d4b-41a4-9270-36f3717bf77f",
+        "2531144f-fd8b-4923-b592-5f33a6ca3745",
+        "3a098b61-9781-40b2-9293-236842bb4c76",
+        "b13c020c-f5eb-48f1-b00c-eb88b42cb057",
+        "ba7475bd-85cd-4d97-bdee-5fdb037565dd",
+        "5a9faa12-c2c3-42d9-ae8e-352952dbc640",
+        "eabd56f1-fad2-4712-aab7-4239fbf41888",
+        "e2edfcb3-069f-4671-bac7-21b597ceedc3",
+        "e056b218-bb77-4759-8991-933a4308ab31",
+        "eec09798-c941-4441-badc-80a9ed2d5816",
+        "42ea032f-aaa3-48c4-a00b-d857847930b8",
+        "547a659c-bc94-47f6-8700-993476a0e90f",
+        "21ba23a8-f09d-443e-adb6-0e309f7eaec6",
+        "5d89c93e-8680-4047-bf94-f8a282674a75",
+        "4f3383f8-6430-4d86-9d21-7a922498693f",
+        "bfce1815-3009-41d4-b72c-533000ad9585"
       ],
       "settings": {
         "section_title": "Zone 1 Free Delivery",
