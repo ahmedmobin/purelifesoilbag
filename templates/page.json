@@ -479,6 +479,14 @@
         "section_html": "<ul>\n    <li>Toronto<\/li>\n    <li>Mississauga<\/li>\n    <li>North York <\/li>\n    <li>York<\/li>\n    <li>Scarborough<\/li>\n    <li>Milton<\/li>\n    <li>Etobicoke<\/li>\n    <li>Burlington<\/li>\n    <li>Aurora<\/li>\n    <li>Thornhill<\/li>\n    <li>Brampton<\/li>\n    <li>Markham<\/li>\n    <li>Oakville<\/li>\n    <li>Ajax<\/li>\n    <li>Oshawa<\/li>\n    <li>Whitby<\/li>\n    <li>Pickering<\/li>\n    <li>Markham <\/li>\n    <li>Vaughn <\/li>\n    <li>Richmond Hill<\/li> \n    <li>King City<\/li>\n    <li>Aurora<\/li>\n    <li>New Market<\/li>\n<\/ul>"
       }
     },
+    "1642221434692c2774": {
+      "type": "html-code",
+      "settings": {
+        "section_title": "Zone 2",
+        "section_description": "$30 delivery per tote bag.",
+        "section_html": "<ul>\n    <li>Palgrave<\/li>\n    <li>Bolton<\/li>\n    <li>Niagara-On-The-Lake<\/li>\n    <li>Kingston<\/li>\n    <li>Uxbridge<\/li>\n    <li>Stoneycreek<\/li>\n    <li>Unionville<\/li>\n    <li>Beamsville <\/li>\n    <li>Uxbridge <\/li>\n    <li>Singhampton<\/li>\n    <li>Dorval<\/li>\n    <li>London <\/li>\n    <li>Woodstock <\/li>\n    <li>Brantford <\/li>\n    <li>Hamilton <\/li>\n    <li>Guelph <\/li>\n    <li>Kitchener <\/li>\n    <li>Cambridge <\/li>\n    <li>St Catherines <\/li>\n<\/ul>"
+      }
+    },
     "1641805515544436f9": {
       "type": "accordion",
       "blocks": {
@@ -592,6 +600,7 @@
     "16412298855ec48ea3",
     "16412337084091b764",
     "1642218509766263c7",
+    "1642221434692c2774",
     "1641805515544436f9",
     "1642220755b4755c9e"
   ]
