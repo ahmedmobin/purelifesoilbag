@@ -542,6 +542,25 @@
       ],
       "settings": {
       }
+    },
+    "1642210781339e3c33": {
+      "type": "unordered-list",
+      "blocks": {
+        "3c5b0140-1d4b-41a4-9270-36f3717bf77f": {
+          "type": "Item",
+          "settings": {
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "3c5b0140-1d4b-41a4-9270-36f3717bf77f"
+      ],
+      "settings": {
+        "section_title": "",
+        "section_description": ""
+      }
     }
   },
   "order": [
@@ -555,6 +574,7 @@
     "1641230570463754b7",
     "16412298855ec48ea3",
     "16412337084091b764",
-    "1641805515544436f9"
+    "1641805515544436f9",
+    "1642210781339e3c33"
   ]
 }
