@@ -233,12 +233,14 @@
         /*For plus and minus buttons*/
         jQuery(buttonPlus).click(function(e) {
             e.preventDefault();
-            quantity.val(parseInt(quantity.val()) + 1).trigger('input');
+            //quantity.val(parseInt(quantity.val()) + 1).trigger('input');
+          $(this).parent(".quantity").find(".quantity__input").val(parseInt(quantity.val()) + 1).trigger('input');
         });
 
         buttonMin.click(function(e) {
              e.preventDefault();
-            quantity.val(Math.max(parseInt(quantity.val()) - 1, 0)).trigger('input');
+            //quantity.val(Math.max(parseInt(quantity.val()) - 1, 0)).trigger('input');
+          $(this).parent(".quantity").find(".quantity__input").val(Math.max(parseInt(quantity.val()) - 1, 0)).trigger('input');
         });
         console.log( "ready!" );
       });
