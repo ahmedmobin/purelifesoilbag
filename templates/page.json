@@ -549,35 +549,8 @@
       "settings": {
         "section_title": "Zone 3",
         "section_description": "$30 delivery per tote bag.",
-        "section_html": "<p class=\"para\">Anything else in Ontario let the order get put in place but write delivery fee is subject to change anytime.<\/p>",
+        "section_html": "",
         "section_class": "shipping-zone"
-      }
-    },
-    "1642220755b4755c9e": {
-      "type": "fields-test",
-      "disabled": true,
-      "blocks": {
-        "d5070055-dc98-4dae-8921-437579130863": {
-          "type": "Input-type-blocks",
-          "settings": {
-            "text": "Default Text",
-            "textarea": "Text Area Default Text",
-            "radio_selection": "Option value"
-          }
-        },
-        "255e38ca-2f92-469b-a999-714a7ead14d2": {
-          "type": "Input-type-blocks-new",
-          "settings": {
-            "text_new": "Default"
-          }
-        }
-      },
-      "block_order": [
-        "d5070055-dc98-4dae-8921-437579130863",
-        "255e38ca-2f92-469b-a999-714a7ead14d2"
-      ],
-      "settings": {
-        "text": "Enter your Text"
       }
     }
   },
@@ -594,7 +567,6 @@
     "16412298855ec48ea3",
     "1642218509766263c7",
     "1642221434692c2774",
-    "1642221445b4af6f97",
-    "1642220755b4755c9e"
+    "1642221445b4af6f97"
   ]
 }
