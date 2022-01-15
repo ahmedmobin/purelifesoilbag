@@ -2630,6 +2630,7 @@ border-radius: 3px;
   @media screen and (max-width:750px){
   	.banner.main-banner.text-shad .banner__box .banner__buttons{ text-align: center;
 display: inline-block;}
+    .banner.main-banner.text-shad .banner__box h2.banner__heading{ text-align:center;}
   }
 @media screen and (forced-colors: active) {
   .icon {
