@@ -2412,6 +2412,11 @@ details-disclosure > details {
   flex-wrap: wrap;
   justify-content: center;
 }
+  .banner.main-banner.text-shad .banner__box h2.banner__heading{
+  	text-align: left;
+    max-width: 100%;
+    width: 100%;
+  }
   .banner.main-banner.text-shad .banner__box .banner__buttons {
   max-width: 100%;
   text-align: left;
