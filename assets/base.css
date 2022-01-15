@@ -2509,7 +2509,6 @@ details-disclosure > details {
   /*Accordion */
   .accordionWrapper{ margin: 20px auto; max-width:660px; }
 .accordionItem{
-  float: left;
   display: block;
   width: 100%;
   box-sizing: border-box;
