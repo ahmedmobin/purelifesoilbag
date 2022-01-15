@@ -2607,7 +2607,7 @@ border-radius: 3px;
   text-align: center;
   width: calc(12.5% - 4px);
 }
-  .shipping-zone .html-description{ text-align: center; }
+  .shipping-zone .html-description .para{ text-align: center; }
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
