@@ -62,11 +62,19 @@
         <input type="submit" value="Add to cart" class="btn" />
         <input type="hidden" name="return_to" value="back" />
       </form> -->
-       <form method="post" action="/cart/add">
-    <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
-    <label for="quantity">Qty: </label>
-	<input min="1" type="number" id="quantity" name="quantity" value="1" />
-    <input type="submit" value="Add to cart" class="btn" />
+       <form method="post"  action="/cart/add">
+    
+         <div class="quantity buttons_added">
+           <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
+         	<input type="button" value="-" class="minus">
+			<input step="1" min="1" max="" type="number" id="quantity" name="quantity" value="1"  title="Qty" class="input-text qty text" size="4" pattern="" inputmode="" />
+         	<input type="button" value="+" class="plus">
+         </div>
+         
+      
+	
+    <input type="number"  name="quantity" value="1">
+     
 </form> 
     </div>
   </div>
