@@ -403,74 +403,6 @@
         "slider-heading": "Testimonials"
       }
     },
-    "16412298855ec48ea3": {
-      "type": "image-banner",
-      "blocks": {
-        "16412298849f537e1d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Gardening Tips",
-            "heading_size": "medium"
-          }
-        },
-        "16412298849f537e1d-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "16412298849f537e1d-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "GET TIPS",
-            "button_label_id": "",
-            "button_link_1": "https:\/\/purelifesoil.com\/blogs\/gardening-tips",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16412298849f537e1d-0",
-        "16412298849f537e1d-1",
-        "16412298849f537e1d-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/gardening-tips.jpg",
-        "image_overlay_opacity": 50,
-        "image_height": "small",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false,
-        "custom_class": "spin-wheel"
-      }
-    },
-    "16412337084091b764": {
-      "type": "image-banner",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/map.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false,
-        "custom_class": ""
-      }
-    },
     "1641805515544436f9": {
       "type": "accordion",
       "blocks": {
@@ -544,6 +476,56 @@
       "settings": {
       }
     },
+    "16412298855ec48ea3": {
+      "type": "image-banner",
+      "blocks": {
+        "16412298849f537e1d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gardening Tips",
+            "heading_size": "medium"
+          }
+        },
+        "16412298849f537e1d-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "16412298849f537e1d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "GET TIPS",
+            "button_label_id": "",
+            "button_link_1": "https:\/\/purelifesoil.com\/blogs\/gardening-tips",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16412298849f537e1d-0",
+        "16412298849f537e1d-1",
+        "16412298849f537e1d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/gardening-tips.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "custom_class": "spin-wheel"
+      }
+    },
     "1642218509766263c7": {
       "type": "html-code",
       "settings": {
@@ -608,9 +590,8 @@
     "164180097271a79654",
     "164180139105af504c",
     "1641230570463754b7",
-    "16412298855ec48ea3",
-    "16412337084091b764",
     "1641805515544436f9",
+    "16412298855ec48ea3",
     "1642218509766263c7",
     "1642221434692c2774",
     "1642221445b4af6f97",
