@@ -233,7 +233,7 @@
         /*For plus and minus buttons*/
         $(buttonPlus).click(function(e) {
             e.preventDefault();
-            quantity.val(parseInt(quantity.val()) + 1).trigger('input');
+            $(this).parent(".quantity").find(".quantity__input").val(parseInt($(this).parent(".quantity").find(".quantity__input").val()) + 1).trigger('input');
           //$(this).parent(".quantity").find(".quantity__input").val(parseInt(quantity.val()) + 1).trigger('input');
         });
 
