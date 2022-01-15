@@ -199,8 +199,9 @@
   flex-direction: column;
   position: relative;
   text-decoration: none;
+  text-align:center;
 }
-
+.card-wrapper .price{ display:block; }
 .card-wrapper .card-information {
   order: 1;
 }
