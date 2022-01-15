@@ -1,10 +1,12 @@
 <section class="page-width">
-  <h2>{{ section.settings.section_title}}</h2>
-  <h3>{{ section.settings.section_description}}</h3>
-  <div class="unorderd-list-description">{{ section.settings.section_html}}</div>
-  {%- for block in section.blocks -%}
-  	{{ block.settings.title }}
-  {%- endfor -%}
+  <div class="{{ section.settings.section_class}}">
+    <h2>{{ section.settings.section_title}}</h2>
+    <h3>{{ section.settings.section_description}}</h3>
+    <div class="unorderd-list-description">{{ section.settings.section_html}}</div>
+    {%- for block in section.blocks -%}
+      {{ block.settings.title }}
+    {%- endfor -%}
+  </div>
 </section>
 {% schema %}
   {
@@ -24,6 +26,11 @@
           "type": "html",
           "id": "section_html",
           "label": "Html Code"
+		},
+		{
+          "type": "text",
+          "id": "section_class",
+          "label": "Custom Class"
 		}
 	],
 	"presets": [
