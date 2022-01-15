@@ -25,11 +25,11 @@
       {%- endif -%}
 
       {%- if product_card_product.featured_media -%}
-<!--         <h3 class="card-information__text h5">
+		<h3 class="card-information__text h5">
           <a href="{{ product_card_product.url | default: '#' }}" class="full-unstyled-link">
             {{ product_card_product.title | escape }}
           </a>
-        </h3> -->
+        </h3>
       {%- endif -%}
 
       {% comment %} TODO: metafield {% endcomment %}
@@ -57,11 +57,6 @@
       {%- endif -%}
      
       {% render 'price', product: product_card_product, price_class: '' %}
-<!--       <form method="post" action="/cart/add">
-          <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
-          <input min="1" type="number" id="quantity" name="quantity" value="1" />
-          <input type="submit" value="Add to cart" class="btn" />
-      </form> -->
       <form method="post" action="/cart/add">
           <div class="quantity">
           <button class="quantity__button no-js-hidden" name="minus" type="button">
