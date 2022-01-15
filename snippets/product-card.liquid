@@ -57,11 +57,27 @@
       {%- endif -%}
      
       {% render 'price', product: product_card_product, price_class: '' %}
-      <form method="post" action="/cart/add">
+<!--       <form method="post" action="/cart/add">
           <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
           <input min="1" type="number" id="quantity" name="quantity" value="1" />
           <input type="submit" value="Add to cart" class="btn" />
-      </form>
+      </form> -->
+      <form method="post" action="/cart/add">
+	<div class="quantity">
+	<button class="quantity__button no-js-hidden" name="minus" type="button">
+	  <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
+	  {% render 'icon-minus' %}
+	</button>
+	
+  <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
+  <input  min="1" type="number" id="quantity" name="quantity" value="1" />
+  <button class="quantity__button no-js-hidden" name="plus" type="button">
+	  <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: product.title | escape }}</span>
+	  {% render 'icon-plus' %}
+	</button>
+	</div>
+  <input type="submit" value="Add to cart" class="btn" />
+</form>
     </div>
   </div>
 
