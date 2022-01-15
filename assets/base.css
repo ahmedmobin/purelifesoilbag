@@ -451,6 +451,8 @@ blockquote {
   blockquote {
     padding-left: 1.5rem;
   }
+  .banner.main-banner.text-shad .banner__box .banner__buttons{ text-align: center;
+display: inline-block;}
 }
 
 .caption {
