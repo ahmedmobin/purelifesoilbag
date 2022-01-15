@@ -205,7 +205,9 @@
 .card-wrapper .card-information {
   order: 1;
 }
-
+.card-wrapper .quantity{
+	margin: 10px auto 10px;
+}
 /* .card-wrapper .full-unstyled-link::after {
   content: "";
   position: absolute;
