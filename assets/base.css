@@ -2592,6 +2592,26 @@ border-radius: 3px;
     border-bottom-left-radius: 0px;
 }
 /*Accordion End*/
+  .shipping-zone {
+	padding: 30px 0 10px;
+}
+:is(.shipping-zone) h2, h3 {
+  margin: 0;
+  text-align: center;
+}
+.shipping-zone ul {
+  margin: 15px 0 0;
+  padding: 0;
+  list-style: none;
+}
+.shipping-zone ul li {
+  display: inline-block;
+  vertical-align: top;
+  font-weight: 700;
+  padding: 0 3px;
+  text-align: center;
+  width: calc(12.5% - 4px);
+}
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
