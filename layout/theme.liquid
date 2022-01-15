@@ -225,6 +225,9 @@
     {%- endif -%}
     {% include 'ajaxify-cart' %}
     <script>
+      $( document ).ready(function() {
+        console.log( "ready!" );
+    });
     	var minus_A = document.querySelector("#quantity-form .minus-btn");
         var add_A = document.querySelector("#quantity-form .plus-btn");
         var quantity_A = document.querySelector("#quantity-form .quantity__input");
