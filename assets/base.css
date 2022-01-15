@@ -2404,7 +2404,7 @@ details-disclosure > details {
   .main-banner.au .banner__text body{ font-weight:700; color:#fff; }
   .banner.main-banner.text-shad .banner__box {
     background: rgba(0,0,0,.6) !important;
-    padding: 15px 20px;
+    padding: 25px 20px;
      color:#fff;
 }
   
@@ -2413,7 +2413,7 @@ details-disclosure > details {
 }
 .banner.main-banner.text-shad .banner__box {
   height: 100%;
-  padding-top: 72px;
+/*   padding-top: 72px; */
 }
 /* Slider */
   .slider-section {
