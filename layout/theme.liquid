@@ -227,7 +227,7 @@
     <script>
     	var minus_A = document.querySelector("#quantity-form .minus-btn")
         var add_A = document.querySelector("#quantity-form .plus-btn");
-        var quantity_A = document.querySelector("#product_A_form .item-quantity");
+        var quantity_A = document.querySelector("#quantity-form .quantity__input");
 
         minus_A.addEventListener("click", function(){
             quantity_A.value--;
@@ -238,9 +238,9 @@
         });
 
         // product B
-        var minus_B = document.querySelector("#product_B_form .btn-subtract")
-        var add_B = document.querySelector("#product_B_form .btn-add");
-        var quantity_B = document.querySelector("#product_B_form .item-quantity");
+        var minus_B = document.querySelector("#quantity-form .minus-btn")
+        var add_B = document.querySelector("#quantity-form .plus-btn");
+        var quantity_B = document.querySelector("#quantity-form .quantity__input");
 
         // includes button minus disablement if at minimum or below
         const minimum = 0;
