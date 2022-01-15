@@ -25,11 +25,11 @@
       {%- endif -%}
 
       {%- if product_card_product.featured_media -%}
-        <h3 class="card-information__text h5">
+<!--         <h3 class="card-information__text h5">
           <a href="{{ product_card_product.url | default: '#' }}" class="full-unstyled-link">
             {{ product_card_product.title | escape }}
           </a>
-        </h3>
+        </h3> -->
       {%- endif -%}
 
       {% comment %} TODO: metafield {% endcomment %}
@@ -57,52 +57,12 @@
       {%- endif -%}
      
       {% render 'price', product: product_card_product, price_class: '' %}
-<!--       <form method="post" action="/cart/add">
-        <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
-        <input type="submit" value="Add to cart" class="btn" />
-        <input type="hidden" name="return_to" value="back" />
-      </form> -->
-<!--       <form method="post" action="/cart/add">
+      <form method="post" action="/cart/add">
     <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
     <label for="quantity">Qty: </label>
 	<input min="1" type="number" id="quantity" name="quantity" value="1" />
     <input type="submit" value="Add to cart" class="btn" />
-</form> -->
-      <form method="post"  action="/cart/add">
-          <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
-        <div class="quantity">  
-        <button class="quantity__button no-js-hidden" name="minus" type="button">
-          <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
-            {% render 'icon-minus' %}
-          </button>
-          <input class="quantity__input" min="1" type="number" id="quantity" name="quantity" value="1" />
-        	<button class="quantity__button no-js-hidden" name="plus" type="button">
-          <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: product.title | escape }}</span>
-          {% render 'icon-plus' %}
-        </button>
-          <input type="submit" value="Add to cart" class="btn" />
-        </div>
-      </form>
-<!--       <form method="post" action="/cart/add">
-      <quantity-input class="quantity">
-        <button class="quantity__button no-js-hidden" name="minus" type="button">
-          <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
-          {% render 'icon-minus' %}
-        </button>
-        <input class="quantity__input"
-               type="number"
-               name="quantity"
-               id="Quantity-{{ section.id }}"
-               min="1"
-               value="1"
-               form="{{ product_form_id }}"
-               >
-        <button class="quantity__button no-js-hidden" name="plus" type="button">
-          <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: product.title | escape }}</span>
-          {% render 'icon-plus' %}
-        </button>
-        <input type="submit" value="Add to cart" class="btn" />
-      </quantity-input> -->
+</form>
     </div>
   </div>
 
