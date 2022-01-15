@@ -1,12 +1,30 @@
+<section class="page-width">
+  <h2>{{ section.settings.section_title}}</h2>
+  <div class="unorderd-list-description">{{ section.settings.section_description}}</div>
+  {%- for block in section.blocks -%}
+  	{{ block.settings.title }}
+  {%- endfor -%}
+</section>
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+    "name": "Html",
+    "settings": [
+		{
+          "type": "text",
+          "id": "section_title",
+          "label": "Title"
+		},
+		{
+          "type": "html",
+          "id": "section_description",
+          "label": "Html Code"
+		}
+	],
+	"presets": [
+      {
+        "name": "Html",
+        "category": "Custom content"
+      }
+    ]
   }
 {% endschema %}
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
