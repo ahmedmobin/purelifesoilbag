@@ -2599,6 +2599,7 @@ border-radius: 3px;
   margin: 15px 0 0;
   padding: 0;
   list-style: none;
+  font-weight:700;
 }
 .shipping-zone ul li {
   display: inline-block;
