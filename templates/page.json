@@ -567,7 +567,7 @@
       "settings": {
         "section_title": "Zone 3",
         "section_description": "$30 delivery per tote bag.",
-        "section_html": "Anything else in Ontario let the order get put in place but write delivery fee is subject to change anytime.",
+        "section_html": "<p class=\"para\">Anything else in Ontario let the order get put in place but write delivery fee is subject to change anytime.<\/p>",
         "section_class": "shipping-zone"
       }
     },
