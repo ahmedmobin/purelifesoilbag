@@ -77,7 +77,7 @@
           "settings": {
             "button_label_1": "Buy Now",
             "button_label_id": "",
-            "button_link_1": "#",
+            "button_link_1": "shopify:\/\/products\/organic-garden-mix-1-cubic-yard",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
