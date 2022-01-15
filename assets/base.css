@@ -2613,7 +2613,7 @@ border-radius: 3px;
   
 /* -- quantity box -- */
 
-.quantity {
+/* .quantity {
  display: inline-block; }
 
 .quantity .input-text.qty {
@@ -2664,7 +2664,7 @@ border-radius: 3px;
  
  .quantity.buttons_added .minus:focus,
 .quantity.buttons_added .plus:focus {
- outline: none; }
+ outline: none; } */
 
 
 @media screen and (forced-colors: active) {
