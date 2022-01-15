@@ -2550,8 +2550,6 @@ border-radius: 3px;
 	-ms-transform: scaleY(0);
 	transform: scaleY(0);
     display:block;
-    
-    
 }
 .open .accordionItemContent{
         padding: 20px;
