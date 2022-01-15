@@ -68,9 +68,10 @@
 	<input min="1" type="number" id="quantity" name="quantity" value="1" />
     <input type="submit" value="Add to cart" class="btn" />
 </form> -->
-      <form method="post" class="quantity" action="/cart/add">
+      <form method="post"  action="/cart/add">
           <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
-          <button class="quantity__button no-js-hidden" name="minus" type="button">
+        <div class="quantity">  
+        <button class="quantity__button no-js-hidden" name="minus" type="button">
           <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
             {% render 'icon-minus' %}
           </button>
@@ -80,6 +81,7 @@
           {% render 'icon-plus' %}
         </button>
           <input type="submit" value="Add to cart" class="btn" />
+        </div>
       </form>
 <!--       <form method="post" action="/cart/add">
       <quantity-input class="quantity">
