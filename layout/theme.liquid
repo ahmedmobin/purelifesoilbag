@@ -226,22 +226,36 @@
     {% include 'ajaxify-cart' %}
     <script>
       $( document ).ready(function() {
+        var buttonPlus = jQuery('#quantity-form .minus-btn');
+        var buttonMin = jQuery('#quantity-form .plus-btn');
+        var quantity = jQuery('#quantity-form .quantity__input');
+
+        /*For plus and minus buttons*/
+        jQuery(buttonPlus).click(function(e) {
+            e.preventDefault();
+            quantity.val(parseInt(quantity.val()) + 1).trigger('input');
+        });
+
+        buttonMin.click(function(e) {
+             e.preventDefault();
+            quantity.val(Math.max(parseInt(quantity.val()) - 1, 0)).trigger('input');
+        });
         console.log( "ready!" );
-        $( "#quantity-form .minus-btn" ).click(function() {
-          alert( "Handler for .click() called." );
-        });
+//         $( "#quantity-form .minus-btn" ).click(function() {
+//           alert( "Handler for .click() called." );
+//         });
       });
-    	var minus_A = document.querySelector("#quantity-form .minus-btn");
-        var add_A = document.querySelector("#quantity-form .plus-btn");
-        var quantity_A = document.querySelector("#quantity-form .quantity__input");
+//     	var minus_A = document.querySelector("#quantity-form .minus-btn");
+//         var add_A = document.querySelector("#quantity-form .plus-btn");
+//         var quantity_A = document.querySelector("#quantity-form .quantity__input");
 
-        minus_A.addEventListener("click", function(e){
-            this.quantity_A.value--;
-        });
+//         minus_A.addEventListener("click", function(e){
+//             this.quantity_A.value--;
+//         });
 
-        add_A.addEventListener("click", function(e) {
-            this.quantity_A.value++;
-        });
+//         add_A.addEventListener("click", function(e) {
+//             this.quantity_A.value++;
+//         });
 
     </script>
   </body>
