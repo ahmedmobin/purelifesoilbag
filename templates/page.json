@@ -541,7 +541,7 @@
       "settings": {
         "section_title": "Zone 2",
         "section_description": "$30 delivery per tote bag.",
-        "section_html": "<ul>\n    <li>Palgrave<\/li>\n    <li>Bolton<\/li>\n    <li>Niagara-On-The-Lake<\/li>\n    <li>Kingston<\/li>\n    <li>Uxbridge<\/li>\n    <li>Stoneycreek<\/li>\n    <li>Unionville<\/li>\n    <li>Beamsville <\/li>\n    <li>Uxbridge <\/li>\n    <li>Singhampton<\/li>\n    <li>Dorval<\/li>\n    <li>London <\/li>\n    <li>Woodstock <\/li>\n    <li>Brantford <\/li>\n    <li>Hamilton <\/li>\n    <li>Guelph <\/li>\n    <li>Kitchener <\/li>\n    <li>Cambridge <\/li>\n    <li>St Catherines <\/li>\n<\/ul>",
+        "section_html": "<ul>\n<li>Beamsville <\/li>\n<li>Bolton<\/li>\n<li>Brantford <\/li>\n<li>Cambridge <\/li>\n<li>Dorval<\/li>\n<li>Guelph <\/li>\n<li>Hamilton <\/li>\n<li>Kingston<\/li>\n<li>Kitchener <\/li>\n<li>London <\/li>\n<li>Niagara-On-The-Lake<\/li>\n<li>Palgrave<\/li>\n<li>Singhampton<\/li>\n<li>St Catherines <\/li>\n<li>Stoneycreek<\/li>\n<li>Unionville<\/li>\n<li>Uxbridge<\/li>\n<li>Uxbridge <\/li>\n<li>Woodstock <\/li>\n<\/ul>",
         "section_class": "shipping-zone"
       }
     },
