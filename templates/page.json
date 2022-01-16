@@ -532,7 +532,7 @@
       "settings": {
         "section_title": "Zone 1",
         "section_description": "Free Delivery",
-        "section_html": "<ul>\n    <li>Toronto<\/li>\n    <li>Mississauga<\/li>\n    <li>North York <\/li>\n    <li>York<\/li>\n    <li>Scarborough<\/li>\n    <li>Milton<\/li>\n    <li>Etobicoke<\/li>\n    <li>Burlington<\/li>\n    <li>Aurora<\/li>\n    <li>Thornhill<\/li>\n    <li>Brampton<\/li>\n    <li>Markham<\/li>\n    <li>Oakville<\/li>\n    <li>Ajax<\/li>\n    <li>Oshawa<\/li>\n    <li>Whitby<\/li>\n    <li>Pickering<\/li>\n    <li>Markham <\/li>\n    <li>Vaughn <\/li>\n    <li>Richmond Hill<\/li> \n    <li>King City<\/li>\n    <li>Aurora<\/li>\n    <li>New Market<\/li>\n<\/ul>",
+        "section_html": "<ul>\n<li>Ajax<\/li>\n<li>Aurora<\/li>\n<li>Brampton<\/li>\n<li>Burlington<\/li>\n<li>Etobicoke<\/li>\n<li>King city <\/li>\n<li>Markham<\/li>\n<li>Milton<\/li>\n<li>Mississauga<\/li>\n<li>New Market <\/li>\n<li>North York <\/li>\n<li>Oakville<\/li>\n<li>Oshawa<\/li>\n<li>Pickering <\/li>\n<li>richmond hill <\/li>\n<li>Scarborough<\/li>\n<li>Thornhill<\/li>\n<li>Toronto<\/li>\n<li>Vaughn <\/li>\n<li>Whitby <\/li>\n<li>York<\/li>\n<\/ul>",
         "section_class": "shipping-zone"
       }
     },
@@ -549,7 +549,7 @@
       "type": "html-code",
       "settings": {
         "section_title": "Zone 3",
-        "section_description": "$30 delivery per tote bag.",
+        "section_description": "<p>Price subject to quote, please email <a href=\"mailto:info@pairlifebag.com\">info@pairlifebag.com<\/a><\/p>",
         "section_html": "",
         "section_class": "shipping-zone"
       }
