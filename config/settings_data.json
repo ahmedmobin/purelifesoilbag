@@ -40,11 +40,11 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-1": {
+          "6611c563-ba2b-466b-bf0a-5014c07d0d92": {
             "type": "text",
             "settings": {
-              "heading": "Address",
-              "subtext": "<p>58 Bertal Road<br\/>Toronto, ON M6M 4M<br\/><br\/><strong>Phone:<\/strong>(416) 769-1428<br\/><strong>Fax:<\/strong>(416) 534-4630<br\/><strong>Email:<\/strong><a href=\"mailto:info@purelifesoil.com\">info@purelifesoil.com<\/a><\/p>"
+              "heading": "PureLifeSoilBag",
+              "subtext": "<p>We believe that the most important element to growing organic starts with your soil.<\/p>"
             }
           },
           "footer-0": {
@@ -60,12 +60,20 @@
               "heading": "Company",
               "menu": "footer-company"
             }
+          },
+          "footer-1": {
+            "type": "text",
+            "settings": {
+              "heading": "Address",
+              "subtext": "<p>58 Bertal Road<br\/>Toronto, ON M6M 4M<br\/><br\/><strong>Phone:<\/strong>(416) 769-1428<br\/><strong>Fax:<\/strong>(416) 534-4630<br\/><strong>Email:<\/strong><a href=\"mailto:info@purelifesoil.com\">info@purelifesoil.com<\/a><\/p>"
+            }
           }
         },
         "block_order": [
-          "footer-1",
+          "6611c563-ba2b-466b-bf0a-5014c07d0d92",
           "footer-0",
-          "22006ded-0b2d-4036-a190-b481a1f97404"
+          "22006ded-0b2d-4036-a190-b481a1f97404",
+          "footer-1"
         ],
         "settings": {
           "color_scheme": "background-1",
