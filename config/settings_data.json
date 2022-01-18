@@ -88,15 +88,7 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "3058953513814606179": {
-        "type": "shopify:\/\/apps\/upsell-hero-one-click-upsell\/blocks\/app\/734192da-c932-4324-8307-a8ed8feb0282",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Default": {
