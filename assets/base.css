@@ -2288,7 +2288,7 @@ details[open] > .header__icon--menu .icon-hamburger {
 .header__submenu .icon-caret {
   right: 2rem;
 }
-/*   #MainContent{ padding: 50px 0; } */
+  #MainContent{ padding: 0 0 50px; }
 details-disclosure > details {
   position: relative;
 }
