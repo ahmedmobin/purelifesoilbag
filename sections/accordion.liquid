@@ -3,11 +3,11 @@
        <h2>{{section.settings.title}}</h2>
   {% for block in section.blocks %}
 	<div class="accordionItem close">
-      <h2 class="accordionItemHeading">
+      <h3 class="accordionItemHeading">
         <span class="icon-plus">{% render 'icon-plus' %}</span>
         <span class="icon-minus">{% render 'icon-minus' %}</span>
         <div class="acc-title">{{block.settings.acc-title}}</div>
-      </h2>
+      </h3>
       <div class="accordionItemContent">
         {{block.settings.acc-content}}
       </div>
