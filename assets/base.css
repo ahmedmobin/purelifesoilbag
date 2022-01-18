@@ -2521,12 +2521,15 @@ details-disclosure > details {
     background-repeat: no-repeat;
   }
   .slider-section .slick-list{ padding-bottom:80px; }
-  .accordionWrapper h2,
   .spin-wheel h2{ font-size:6rem; font-weight:700; }
 
   /*Accordion */
   .accordionWrapper{ margin: 20px auto 45px; max-width:800px; }
-  
+  .accordionWrapper h2{
+  	margin: 0 0 10px;
+    font-size: 4rem;
+    font-weight: 700;
+  }
 .accordionItem{
   display: block;
   width: 100%;
