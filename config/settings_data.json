@@ -40,13 +40,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "6611c563-ba2b-466b-bf0a-5014c07d0d92": {
-            "type": "text",
-            "settings": {
-              "heading": "PureLifeSoilBag",
-              "subtext": "<p>We believe that the most important element to growing organic starts with your soil.<\/p>"
-            }
-          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -70,7 +63,6 @@
           }
         },
         "block_order": [
-          "6611c563-ba2b-466b-bf0a-5014c07d0d92",
           "footer-0",
           "22006ded-0b2d-4036-a190-b481a1f97404",
           "footer-1"
