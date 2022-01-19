@@ -2435,6 +2435,9 @@ details-disclosure > details {
 .header__icon.header__icon--account.link.focus-inset.small-hide {
   width: auto;
 }
+.header__icon.header__icon--account.link.focus-inset.small-hide svg {
+  margin-left: 4px;
+}
 /* Slider */
   .slider-section {
     margin: 60px 0 50px;
