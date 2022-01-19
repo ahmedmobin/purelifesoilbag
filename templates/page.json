@@ -438,7 +438,7 @@
           "type": "accordion-item",
           "settings": {
             "acc-title": "Are you certified organic?",
-            "acc-content": "ES! The worm castings are certified organic by Pro-cert Organic Systems (Canadian) and OMRI (American), and our living soil is Pro-Cert certified. Our other mixes have not yet been certified organic as we have not applied for it, but we can assure we only use organic components."
+            "acc-content": "YES! The worm castings are certified organic by Pro-cert Organic Systems (Canadian) and OMRI (US), and our living soil is Pro-Cert certified. Our other mixes have not yet been certified organic as we have not applied for it, but we can assure we only use organic components."
           }
         },
         "0442f6e5-c464-40bd-b8ff-c2999a365f98": {
@@ -451,8 +451,8 @@
         "83550cb9-c642-4929-aa46-6da5dba867c6": {
           "type": "accordion-item",
           "settings": {
-            "acc-title": "What are your delivery fees?",
-            "acc-content": "Our delivery fees are generated at checkout and are dependent on the zone you live in. The zones are based on distance from the warehouse."
+            "acc-title": "Do you do home delivery? How much is it?",
+            "acc-content": "YES we do! Our delivery fees are generated at checkout and are dependent on the zone you live in. The zones are based on distance from our facility. Please see which delivery zone does your address falls under."
           }
         },
         "ed0f9d21-9d6a-4af6-99df-3a0a1420d9bc": {
