@@ -2683,7 +2683,7 @@ display: inline-block;}
   		width: calc(50% - 4px); 
     }
   }
-  @media screen and (max-width: 2400px) and (min-width: 600px) {
+  @media screen and (max-width: 2400px) and (min-width: 990px) {
 	.cart-featured-product .slider-mobile-gutter li {
 	  max-width: 16% !important;
 	}
