@@ -1,6 +1,7 @@
 slider-component {
   position: relative;
   display: block;
+  overflow:hidden;
 }
 
 @media screen and (max-width: 989px) {
