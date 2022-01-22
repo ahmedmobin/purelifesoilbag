@@ -63,7 +63,12 @@
 
   {%- if section.settings.show_view_all and more_in_collection -%}
     <div class="center{% if section.settings.swipe_on_mobile %} small-hide medium-hide{% endif %}">
-      <a href="{{ section.settings.collection.url }}"
+      {% if section.settings.custom_url %}
+      	{% assign show_button_link = section.settings.custom_url %}
+      {% else %}
+      	{% assign show_button_link = section.settings.collection.url %}
+      {% endif%}
+      <a href="{{ show_button_link }}"
         class="button"
         aria-label="{{ 'sections.featured_collection.view_all_label' | t: collection_name: section.settings.collection.title }}"
       >
