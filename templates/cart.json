@@ -35,7 +35,7 @@
         "collection": "small-bags",
         "products_to_show": 6,
         "show_view_all": true,
-        "custom_url": "shopify:\/\/collections",
+        "custom_url": "https:\/\/purelifesoilbag.myshopify.com\/collections\/all",
         "swipe_on_mobile": true,
         "image_ratio": "square",
         "show_secondary_image": false,
