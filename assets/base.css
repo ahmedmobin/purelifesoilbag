@@ -2434,6 +2434,7 @@ details-disclosure > details {
 }
 .header__icon.header__icon--account.link.focus-inset.small-hide {
   width: auto;
+  text-transform:capitalize;
 }
 .header__icon.header__icon--account.link.focus-inset.small-hide svg {
   margin-left: 4px;
