@@ -135,8 +135,8 @@ cart-remove-button .button:not([disabled]):focus-visible {
 
 @media screen and (min-width: 750px) {
   cart-remove-button .button {
-    min-width: 3.5rem;
-    min-height: 3.5rem;
+    width: 3.5rem;
+    height: 3.5rem;
   }
 }
 
@@ -300,7 +300,7 @@ cart-remove-button .icon-remove {
   }
 
   .cart-item cart-remove-button {
-    margin: 0.5rem 0 0 1.5rem;
+    margin: 0 0 0 1.5rem;
   }
 
   .cart-item__price-wrapper > *:only-child:not(.cart-item__discounted-prices) {
