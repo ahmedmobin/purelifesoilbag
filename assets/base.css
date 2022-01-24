@@ -2640,6 +2640,9 @@ border-radius: 3px;
   text-align: center;
   width: calc(12.5% - 4px);
 }
+  .footer-block__details-content a {
+  text-decoration: navajowhite;
+}
   .shipping-zone .html-description .para{ text-align: center; }
   @media screen and (max-width:750px){
   	.banner.main-banner.text-shad .banner__box .banner__buttons{ text-align: center;
