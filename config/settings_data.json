@@ -43,8 +43,8 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Services",
-              "menu": "footer-my-account"
+              "heading": "My Account",
+              "menu": "footer-services"
             }
           },
           "22006ded-0b2d-4036-a190-b481a1f97404": {
