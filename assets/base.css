@@ -2689,6 +2689,6 @@ display: inline-block;}
   }
   @media screen and (max-width: 2400px) and (min-width: 990px) {
 	.cart-featured-product .slider-mobile-gutter li {
-	  max-width: 16% !important;
+	  max-width: 16.6% !important;
 	}
 }
