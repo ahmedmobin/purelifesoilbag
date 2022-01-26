@@ -65,7 +65,6 @@
                 </label> -->
                 <quantity-input class="quantity">
                   <button class="quantity__button no-js-hidden" name="minus" type="button">
-<!--                     <span class="visually-hidden">{{ 'product_card_product.quantity.decrease' | t: product: product.title | escape }}</span> -->
                     {% render 'icon-minus' %}
                   </button>
                   <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
@@ -81,7 +80,6 @@
 				<input  class="quantity__input"  min="1" max="" type="number" id="quantity" name="quantity" value="1" /> 
                   
                   <button class="quantity__button no-js-hidden" name="plus" type="button">
-<!--                     <span class="visually-hidden">{{ 'product_card_product.quantity.increase' | t: product: product.title | escape }}</span> -->
                     {% render 'icon-plus' %}
                   </button>
                 </quantity-input>
