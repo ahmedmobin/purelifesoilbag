@@ -553,6 +553,74 @@
         "section_html": "",
         "section_class": "shipping-zone"
       }
+    },
+    "1643212085bee09b46": {
+      "type": "featured-product",
+      "blocks": {
+        "16432120859553b14b-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "16432120859553b14b-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "16432120859553b14b-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16432120859553b14b-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16432120859553b14b-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16432120859553b14b-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16432120859553b14b-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16432120859553b14b-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16432120859553b14b-0",
+        "16432120859553b14b-1",
+        "16432120859553b14b-2",
+        "16432120859553b14b-3",
+        "16432120859553b14b-4",
+        "16432120859553b14b-5",
+        "16432120859553b14b-6",
+        "16432120859553b14b-7"
+      ],
+      "settings": {
+        "product": "",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
     }
   },
   "order": [
@@ -568,6 +636,7 @@
     "16412298855ec48ea3",
     "1642218509766263c7",
     "1642221434692c2774",
-    "1642221445b4af6f97"
+    "1642221445b4af6f97",
+    "1643212085bee09b46"
   ]
 }
