@@ -59,57 +59,57 @@
       {% render 'price', product: product_card_product, price_class: '' %}
 <!--form-->
       <product-form class="product-form">
-      {%- form 'product', product_card_product  -%}
-  <div class="product-form__input product-form__quantity" {{ block.shopify_attributes }}>
-<!--                 <label class="form__label" for="Quantity-{{ section.id }}">
-                  {{ 'products.product.quantity.label' | t }}
-                </label> -->
-                <quantity-input class="quantity">
-                  <button class="quantity__button no-js-hidden" name="minus" type="button">
-                    {% render 'icon-minus' %}
-                  </button>
-                  <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
-                   <input class="quantity__input"
-                      type="number"
-                      name="quantity"
-                      id="quantity"
-                      min="1"
-                      value="1"
-                    > 
-                  
-<!-- 				<input  class="quantity__input"  min="1" max="" type="number" id="quantity" name="quantity" value="1" />  -->
-                  
-                  <button class="quantity__button no-js-hidden" name="plus" type="button">
-                    {% render 'icon-plus' %}
-                  </button>
-                </quantity-input>
-              </div>
-  <div class="product-form__buttons">
-	<button
-	  type="submit"
-	  name="add"
-	  class="product-form__submit button button--full-width {% if block.settings.show_dynamic_checkout and product.selling_plan_groups == empty %}button--secondary{% else %}button--primary{% endif %}"
-	
-	{% if product.selected_or_first_available_variant.available == false %}disabled{% endif %}
-	>
-		<span>
-		  {%- if product.selected_or_first_available_variant.available -%}
-			{{ 'products.product.add_to_cart' | t }}
-		  {%- else -%}
-			{{ 'products.product.sold_out' | t }}
-		  {%- endif -%}
-		</span>
-		<div class="loading-overlay__spinner hidden">
-		  <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-			<circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
-		  </svg>
-		</div>
-	</button>
-	{%- if block.settings.show_dynamic_checkout -%}
-	  {{ form | payment_button }}
-	{%- endif -%}
-  </div>
-{%- endform -%}
+      {%- form 'product', product_card_product , id: product_form_id, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form'  -%}
+            <div class="product-form__input product-form__quantity" {{ block.shopify_attributes }}>
+          <!--                 <label class="form__label" for="Quantity-{{ section.id }}">
+                            {{ 'products.product.quantity.label' | t }}
+                          </label> -->
+                          <quantity-input class="quantity">
+                            <button class="quantity__button no-js-hidden" name="minus" type="button">
+                              {% render 'icon-minus' %}
+                            </button>
+                            <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
+                             <input class="quantity__input"
+                                type="number"
+                                name="quantity"
+                                id="quantity"
+                                min="1"
+                                value="1"
+                              > 
+
+          <!-- 				<input  class="quantity__input"  min="1" max="" type="number" id="quantity" name="quantity" value="1" />  -->
+
+                            <button class="quantity__button no-js-hidden" name="plus" type="button">
+                              {% render 'icon-plus' %}
+                            </button>
+                          </quantity-input>
+                        </div>
+            <div class="product-form__buttons">
+              <button
+                type="submit"
+                name="add"
+                class="product-form__submit button button--full-width {% if block.settings.show_dynamic_checkout and product.selling_plan_groups == empty %}button--secondary{% else %}button--primary{% endif %}"
+
+              {% if product.selected_or_first_available_variant.available == false %}disabled{% endif %}
+              >
+                  <span>
+                    {%- if product.selected_or_first_available_variant.available -%}
+                      {{ 'products.product.add_to_cart' | t }}
+                    {%- else -%}
+                      {{ 'products.product.sold_out' | t }}
+                    {%- endif -%}
+                  </span>
+                  <div class="loading-overlay__spinner hidden">
+                    <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                      <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                    </svg>
+                  </div>
+              </button>
+              {%- if block.settings.show_dynamic_checkout -%}
+                {{ form | payment_button }}
+              {%- endif -%}
+            </div>
+          {%- endform -%}
       </product-form>
       <script src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
 <!--form -->
