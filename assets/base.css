@@ -2650,6 +2650,9 @@ border-radius: 3px;
 display: inline-block;}
     .banner.main-banner.text-shad .banner__box h2.banner__heading{ text-align:center;}
   }
+.customer.account h2 {
+  text-transform: capitalize;
+}
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
