@@ -228,8 +228,8 @@
     {% endcomment %}
     <script>
       $( document ).ready(function() {
-        var buttonPlus = $('.quantity-form .plus-btn');
-        var buttonMin = $('.quantity-form .minus-btn');
+        var buttonPlus = $('.product-form__input.product-form__quantity .plus-btn');
+        var buttonMin = $('.product-form__input.product-form__quantity .minus-btn');
 		var quantity = $(this).parent(".quantity").find(".quantity__input");
         /*For plus and minus buttons*/
         $(buttonPlus).click(function(e) {
