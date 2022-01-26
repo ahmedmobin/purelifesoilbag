@@ -553,6 +553,74 @@
         "section_html": "",
         "section_class": "shipping-zone"
       }
+    },
+    "1643204447952f0f59": {
+      "type": "featured-product",
+      "blocks": {
+        "164320444731894f5b-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "164320444731894f5b-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "164320444731894f5b-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "164320444731894f5b-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "164320444731894f5b-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "164320444731894f5b-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "164320444731894f5b-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "164320444731894f5b-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "164320444731894f5b-0",
+        "164320444731894f5b-1",
+        "164320444731894f5b-2",
+        "164320444731894f5b-3",
+        "164320444731894f5b-4",
+        "164320444731894f5b-5",
+        "164320444731894f5b-6",
+        "164320444731894f5b-7"
+      ],
+      "settings": {
+        "product": "organic-garden-mix-1-cubic-yard",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
     }
   },
   "order": [
@@ -568,6 +636,7 @@
     "16412298855ec48ea3",
     "1642218509766263c7",
     "1642221434692c2774",
-    "1642221445b4af6f97"
+    "1642221445b4af6f97",
+    "1643204447952f0f59"
   ]
 }
