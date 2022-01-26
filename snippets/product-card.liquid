@@ -58,6 +58,7 @@
      
       {% render 'price', product: product_card_product, price_class: '' %}
 <!--form-->
+      <product-form class="product-form">
       {%- form 'product', product_card_product  -%}
   <div class="product-form__input product-form__quantity" {{ block.shopify_attributes }}>
 <!--                 <label class="form__label" for="Quantity-{{ section.id }}">
@@ -109,6 +110,7 @@
 	{%- endif -%}
   </div>
 {%- endform -%}
+      </product-form>product-form>
 <!--form -->
       <!--       <form id="quantity-form" method="post" action="/cart/add">
           <div class="quantity">
