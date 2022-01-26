@@ -204,8 +204,8 @@
     </div>
   </div>
 </div>
-{% comment %}
-{% javascript %}
+
+<script>
   if (!customElements.get('product-modal')) {
     customElements.define('product-modal', class ProductModal extends ModalDialog {
       constructor() {
@@ -240,8 +240,8 @@
       }
     });
   }
-{% endjavascript %}
-{% endcomment %}
+</script>
+
 <script src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
 {%- if first_3d_model -%}
   <script type="application/json" id="ProductJSON-{{ product.id }}">
