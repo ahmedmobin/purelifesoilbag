@@ -2656,6 +2656,7 @@ display: inline-block;}
   .cart__footer #dynamic-checkout-cart ul {
   display: block !important;
   padding-top: 1px !important;
+    overflow:hidden;
 }
 .cart__footer #dynamic-checkout-cart ul li {
   width: calc(50% - 10px) !important;
