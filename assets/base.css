@@ -2657,11 +2657,11 @@ display: inline-block;}
   display: block !important;
   padding-top: 1px !important;
     overflow:hidden;
-    margin: 0 5px 5px !important;
 }
 .cart__footer #dynamic-checkout-cart ul li {
   width: calc(50% - 10px) !important;
   float: left;
+  margin: 0 5px 5px !important;
 }
 @media screen and (forced-colors: active) {
   .icon {
