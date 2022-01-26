@@ -2653,6 +2653,14 @@ display: inline-block;}
 .customer.account h2 {
   text-transform: capitalize;
 }
+  .cart__footer #dynamic-checkout-cart ul {
+  display: block !important;
+  padding-top: 1px !important;
+}
+.cart__footer #dynamic-checkout-cart ul li {
+  width: calc(50% - 10px) !important;
+  float: left;
+}
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
