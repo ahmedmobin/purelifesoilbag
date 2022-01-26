@@ -227,24 +227,24 @@
     {% include 'ajaxify-cart' %}
     {% endcomment %}
     <script>
-//       $( document ).ready(function() {
-//         var buttonPlus = $('.product-form__input.product-form__quantity .plus-btn');
-//         var buttonMin = $('.product-form__input.product-form__quantity .minus-btn');
-// 		var quantity = $(this).parent(".quantity").find(".quantity__input");
-//         /*For plus and minus buttons*/
-//         $(buttonPlus).click(function(e) {
-//             e.preventDefault();
-//           	console.log("plus clicked");
-//             $(this).parent(".quantity").find(".quantity__input").val(parseInt($(this).parent(".quantity").find(".quantity__input").val()) + 1).trigger('input');
-//         });
+      $( document ).ready(function() {
+        var buttonPlus = $('.product-form__input.product-form__quantity .plus-btn');
+        var buttonMin = $('.product-form__input.product-form__quantity .minus-btn');
+		var quantity = $(this).parent(".quantity").find(".quantity__input");
+        /*For plus and minus buttons*/
+        $(buttonPlus).click(function(e) {
+            e.preventDefault();
+          	console.log("plus clicked");
+            $(this).parent(".quantity").find(".quantity__input").val(parseInt($(this).parent(".quantity").find(".quantity__input").val()) + 1).trigger('input');
+        });
 
-//         buttonMin.click(function(e) {
-//              e.preventDefault();
-//             $(this).parent(".quantity").find(".quantity__input").val(Math.max(parseInt($(this).parent(".quantity").find(".quantity__input").val()) - 1, 0)).trigger('input');
-//         });
+        buttonMin.click(function(e) {
+             e.preventDefault();
+            $(this).parent(".quantity").find(".quantity__input").val(Math.max(parseInt($(this).parent(".quantity").find(".quantity__input").val()) - 1, 0)).trigger('input');
+        });
 
         
-//       });
+      });
 
 		
     </script>
