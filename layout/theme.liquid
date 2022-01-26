@@ -240,7 +240,7 @@
 
         buttonMin.click(function(e) {
              e.preventDefault();
-          console.log("minus clicked", $(this).parent(".quantity").find(".quantity__input").val() );
+          console.log("minus clicked", Math.max(parseInt($(this).parent(".quantity").find(".quantity__input").val()) - 1 );
             $(this).parent(".quantity").find(".quantity__input").val(Math.max(parseInt($(this).parent(".quantity").find(".quantity__input").val()) - 1, 0)).trigger('input');
         });
         console.log( "ready!" );
