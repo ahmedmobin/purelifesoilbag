@@ -234,19 +234,21 @@
         /*For plus and minus buttons*/
         $(buttonPlus).click(function(e) {
             e.preventDefault();
+          	console.log("plus clicked");
             $(this).parent(".quantity").find(".quantity__input").val(parseInt($(this).parent(".quantity").find(".quantity__input").val()) + 1).trigger('input');
         });
 
         buttonMin.click(function(e) {
              e.preventDefault();
+          console.log("minus clicked");
             $(this).parent(".quantity").find(".quantity__input").val(Math.max(parseInt($(this).parent(".quantity").find(".quantity__input").val()) - 1, 0)).trigger('input');
         });
         console.log( "ready!" );
         
         
-          $( "#quantity-form .product-form__submit" ).click(function() {
-            location.reload(true);
-          });
+//           $( "#quantity-form .product-form__submit" ).click(function() {
+//             location.reload(true);
+//           });
       });
 
 		
