@@ -240,15 +240,11 @@
 
         buttonMin.click(function(e) {
              e.preventDefault();
-          console.log("minus clicked", Math.max(parseInt($(this).parent(".quantity").find(".quantity__input").val()) - 1 );
+          console.log("minus clicked", ( Math.max(parseInt($(this).parent(".quantity").find(".quantity__input").val()) - 1) );
             $(this).parent(".quantity").find(".quantity__input").val(Math.max(parseInt($(this).parent(".quantity").find(".quantity__input").val()) - 1, 0)).trigger('input');
         });
-        console.log( "ready!" );
+
         
-        
-//           $( "#quantity-form .product-form__submit" ).click(function() {
-//             location.reload(true);
-//           });
       });
 
 		
