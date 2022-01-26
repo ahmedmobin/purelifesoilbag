@@ -58,7 +58,7 @@
      
       {% render 'price', product: product_card_product, price_class: '' %}
 <!--form-->
-      {%- form 'product', product, product_card_product -%}
+      {%- form 'product', product: product_card_product -%}
   <div class="product-form__input product-form__quantity" {{ block.shopify_attributes }}>
 <!--                 <label class="form__label" for="Quantity-{{ section.id }}">
                   {{ 'products.product.quantity.label' | t }}
