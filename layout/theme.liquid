@@ -223,7 +223,9 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+    {% comment %}
     {% include 'ajaxify-cart' %}
+    {% endcomment %}
     <script>
       $( document ).ready(function() {
         var buttonPlus = $('#quantity-form .plus-btn');
