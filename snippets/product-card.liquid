@@ -58,7 +58,7 @@
      
       {% render 'price', product: product_card_product, price_class: '' %}
 <!--form-->
-      {%- form 'product', product_card_product , id: product_form_id -%}
+      {%- form 'product', product_card_product  -%}
   <div class="product-form__input product-form__quantity" {{ block.shopify_attributes }}>
 <!--                 <label class="form__label" for="Quantity-{{ section.id }}">
                   {{ 'products.product.quantity.label' | t }}
@@ -78,7 +78,7 @@
                       form="{{ product_form_id }}"
                     > -->
                   
-				<input  class="quantity__input"  min="1" max="" type="number" id="quantity" name="quantity" value="1" form="{{ product_form_id }}" /> 
+				<input  class="quantity__input"  min="1" max="" type="number" id="quantity" name="quantity" value="1" /> 
                   
                   <button class="quantity__button no-js-hidden" name="plus" type="button">
 <!--                     <span class="visually-hidden">{{ 'product_card_product.quantity.increase' | t: product: product.title | escape }}</span> -->
