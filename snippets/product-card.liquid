@@ -78,7 +78,7 @@
                       form="{{ product_form_id }}"
                     > -->
                   
-				<input  class="quantity__input"  min="1" max="" type="number" id="quantity" name="quantity" value="1" /> 
+				<input  class="quantity__input"  min="1" max="" type="number" id="quantity" name="quantity" value="{{ product_card_product.variants.first.id }}" /> 
                   
                   <button class="quantity__button no-js-hidden" name="plus" type="button">
 <!--                     <span class="visually-hidden">{{ 'product_card_product.quantity.increase' | t: product: product.title | escape }}</span> -->
