@@ -487,13 +487,6 @@
             "heading_size": "medium"
           }
         },
-        "16412298849f537e1d-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
         "16412298849f537e1d-2": {
           "type": "buttons",
           "settings": {
@@ -509,7 +502,6 @@
       },
       "block_order": [
         "16412298849f537e1d-0",
-        "16412298849f537e1d-1",
         "16412298849f537e1d-2"
       ],
       "settings": {
