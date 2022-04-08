@@ -58,7 +58,7 @@
             "type": "text",
             "settings": {
               "heading": "Address",
-              "subtext": "<p>58 Bertal Road<br\/>Toronto, ON M6M 4M4<br\/><br\/><strong>Phone:<\/strong>(416) 769-1428<br\/><strong>Fax:<\/strong>(416) 534-4630<br\/><strong>Email: <\/strong><a href=\"mailto:info@purelifesoil.com\" title=\"Email Pure Life\">info@purelifebag.com<\/a><\/p>"
+              "subtext": "<p>58 Bertal Road<br\/>Toronto, ON M6M 4M4<br\/><br\/><strong>Phone:<\/strong>(416) 769-1428<br\/><strong>Fax:<\/strong>(416) 534-4630<br\/><strong>Email: <\/strong><a href=\"mailto:info@purelifebag.com\" title=\"mailto:info@purelifebag.com\">info@purelifebag.com<\/a><\/p>"
             }
           }
         },
