@@ -483,14 +483,14 @@
         "16412298849f537e1d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Gardening Tips",
+            "heading": "Find The Location Nearest You!",
             "heading_size": "medium"
           }
         },
         "16412298849f537e1d-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "GET TIPS",
+            "button_label_1": "Locations",
             "button_label_id": "",
             "button_link_1": "https:\/\/purelifesoil.com\/blogs\/gardening-tips",
             "button_style_secondary_1": false,
