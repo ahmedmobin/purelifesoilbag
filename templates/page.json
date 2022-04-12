@@ -7,7 +7,6 @@
     },
     "1641228960300cea23": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1641228960126f3740-1": {
           "type": "text",
@@ -50,7 +49,6 @@
     },
     "164180012772ff43af": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1641800127a8ed7f65-0": {
           "type": "heading",
@@ -101,7 +99,6 @@
     },
     "1641800147cf0f4434": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1641800147ffefbded-0": {
           "type": "heading",
@@ -152,7 +149,6 @@
     },
     "1641800719ad0e25ca": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "16418007193f837bfb-0": {
           "type": "heading",
@@ -203,7 +199,6 @@
     },
     "164180097271a79654": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1641800972aa730444-0": {
           "type": "heading",
@@ -254,7 +249,6 @@
     },
     "164180139105af504c": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1641801391c082977f-0": {
           "type": "heading",
@@ -305,7 +299,6 @@
     },
     "1641230570463754b7": {
       "type": "items-slider",
-      "disabled": true,
       "blocks": {
         "5370a69c-4301-4e07-a291-449dea0269fa": {
           "type": "slider",
@@ -404,7 +397,6 @@
     },
     "1641805515544436f9": {
       "type": "accordion",
-      "disabled": true,
       "blocks": {
         "771cd466-2547-4aaf-9a1c-6317352c3ea3": {
           "type": "accordion-item",
@@ -490,7 +482,7 @@
         "16412298849f537e1d-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Locations",
+            "button_label_1": "Direction",
             "button_label_id": "",
             "button_link_1": "https:\/\/purelifesoil.com\/blogs\/gardening-tips",
             "button_style_secondary_1": false,
@@ -505,7 +497,7 @@
         "16412298849f537e1d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/map_canada.png",
+        "image": "shopify:\/\/shop_images\/gardening-tips.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
