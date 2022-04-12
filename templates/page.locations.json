@@ -50,6 +50,7 @@
     },
     "164180012772ff43af": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1641800127a8ed7f65-0": {
           "type": "heading",
@@ -100,6 +101,7 @@
     },
     "1641800147cf0f4434": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1641800147ffefbded-0": {
           "type": "heading",
@@ -150,6 +152,7 @@
     },
     "1641800719ad0e25ca": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16418007193f837bfb-0": {
           "type": "heading",
@@ -200,6 +203,7 @@
     },
     "164180097271a79654": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1641800972aa730444-0": {
           "type": "heading",
@@ -250,6 +254,7 @@
     },
     "164180139105af504c": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1641801391c082977f-0": {
           "type": "heading",
@@ -300,6 +305,7 @@
     },
     "1641230570463754b7": {
       "type": "items-slider",
+      "disabled": true,
       "blocks": {
         "5370a69c-4301-4e07-a291-449dea0269fa": {
           "type": "slider",
@@ -398,6 +404,7 @@
     },
     "1641805515544436f9": {
       "type": "accordion",
+      "disabled": true,
       "blocks": {
         "771cd466-2547-4aaf-9a1c-6317352c3ea3": {
           "type": "accordion-item",
