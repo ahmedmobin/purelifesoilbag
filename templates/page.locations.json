@@ -490,7 +490,7 @@
         "16412298849f537e1d-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Direction",
+            "button_label_1": "Delivery Zones",
             "button_label_id": "",
             "button_link_1": "#delivery-zones",
             "button_style_secondary_1": false,
