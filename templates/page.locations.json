@@ -524,7 +524,7 @@
       "settings": {
         "section_title": "<div id=\"delivery-zones\">Zone 1 <\/div>",
         "section_description": "Free Delivery",
-        "section_html": "<ul>\n<li>Ajax<\/li>\n<li>Aurora<\/li>\n<li>Brampton<\/li>\n<li>Burlington<\/li>\n<li>Etobicoke<\/li>\n<li>King City<\/li>\n<li>Markham<\/li>\n<li>Milton<\/li>\n<li>Mississauga<\/li>\n<li>New Market<\/li>\n<li>North York<\/li>\n<li>Oakville<\/li>\n<li>Oshawa<\/li>\n<li>Pickering<\/li>\n<li>Richmond Hill<\/li>\n<li>Scarborough<\/li>\n<li>Thornhill<\/li>\n<li>Toronto<\/li>\n<li>Vaughn<\/li>\n<li>Whitby<\/li>\n<li>York<\/li>\n<\/ul>",
+        "section_html": "<ul>\n<li><a href=\"https:\/\/www.purelifebag.com\/pages\/soil-delivery-ajax\">Ajax<\/a><\/li>\n<li>Aurora<\/li>\n<li>Brampton<\/li>\n<li>Burlington<\/li>\n<li>Etobicoke<\/li>\n<li>King City<\/li>\n<li>Markham<\/li>\n<li>Milton<\/li>\n<li>Mississauga<\/li>\n<li>New Market<\/li>\n<li>North York<\/li>\n<li>Oakville<\/li>\n<li>Oshawa<\/li>\n<li>Pickering<\/li>\n<li>Richmond Hill<\/li>\n<li>Scarborough<\/li>\n<li>Thornhill<\/li>\n<li>Toronto<\/li>\n<li>Vaughn<\/li>\n<li>Whitby<\/li>\n<li>York<\/li>\n<\/ul>",
         "section_class": "shipping-zone"
       }
     },
