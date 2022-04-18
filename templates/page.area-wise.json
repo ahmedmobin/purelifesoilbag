@@ -479,6 +479,7 @@
     },
     "16412298855ec48ea3": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16412298849f537e1d-0": {
           "type": "heading",
@@ -541,6 +542,7 @@
     },
     "1642221445b4af6f97": {
       "type": "html-code",
+      "disabled": true,
       "settings": {
         "section_title": "Zone 3",
         "section_description": "<p>If you’re looking to get a delivery in any areas not in Zone 1 & 2 please email us at <a href=\"mailto:info@purelifebag.com\">info@purelifebag.com<\/a><\/p>",
