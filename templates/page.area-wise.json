@@ -560,6 +560,7 @@
     },
     "165027441550193dee": {
       "type": "html-code",
+      "disabled": true,
       "settings": {
         "section_title": "",
         "section_description": "",
