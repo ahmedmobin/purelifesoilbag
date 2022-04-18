@@ -477,49 +477,6 @@
         "title": "FAQs"
       }
     },
-    "16412298855ec48ea3": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "16412298849f537e1d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Find The Location Nearest You!",
-            "heading_size": "medium"
-          }
-        },
-        "16412298849f537e1d-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Delivery Zones",
-            "button_label_id": "",
-            "button_link_1": "#delivery-zones",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16412298849f537e1d-0",
-        "16412298849f537e1d-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/map_canada.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false,
-        "custom_class": "spin-wheel main-banner au  text-shad"
-      }
-    },
     "1642218509766263c7": {
       "type": "html-code",
       "disabled": true,
@@ -559,6 +516,48 @@
         "section_class": ""
       }
     },
+    "16412298855ec48ea3": {
+      "type": "image-banner",
+      "blocks": {
+        "16412298849f537e1d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Find The Location Nearest You!",
+            "heading_size": "medium"
+          }
+        },
+        "16412298849f537e1d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Delivery Zones",
+            "button_label_id": "",
+            "button_link_1": "#delivery-zones",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16412298849f537e1d-0",
+        "16412298849f537e1d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/purelifebag-about-us-main-banner_5f2f2c51-b430-4642-9d79-f1030ac1f293.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "custom_class": "spin-wheel main-banner au  text-shad"
+      }
+    },
     "165027441550193dee": {
       "type": "html-code",
       "settings": {
@@ -579,11 +578,11 @@
     "164180139105af504c",
     "1641230570463754b7",
     "1641805515544436f9",
-    "16412298855ec48ea3",
     "1642218509766263c7",
     "1642221434692c2774",
     "1642221445b4af6f97",
     "16502689640cb70e6f",
+    "16412298855ec48ea3",
     "165027441550193dee"
   ]
 }
