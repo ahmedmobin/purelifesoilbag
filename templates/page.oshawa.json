@@ -14,6 +14,15 @@
         "section_class": ""
       }
     },
+    "1653312055d1bf5e30": {
+      "type": "html-code",
+      "settings": {
+        "section_title": "",
+        "section_description": "",
+        "section_html": "<h2> Get Natural Garden Soil - Grow Everything Better <\/h2>\nOrganic gardening is becoming more popular as people become more aware of using natural products. One of the most important ingredients in any organic garden is healthy soil. Pure life bag is a local company that provides organic worm castings and other soil products to gardeners in the Oshawa area. Our products are entirely natural and free from chemicals and dyes, making it easy to find the best products for creating a healthy garden. Contact us today to learn more about our products and services.\n<h2> Our Top Soil Bag Services<\/h2>\n<li>Garden Soil Mix<\/li>\n<li>Topsoil Lawn Mix<\/li>\n<li>Living Soil Mix<\/li>\n<li>Organic Worm Castings<\/li>\n<li>Organic Potting Mix<\/li>\n<br>\n<br>\n<br>",
+        "section_class": ""
+      }
+    },
     "16412298855ec48ea3": {
       "type": "image-banner",
       "blocks": {
@@ -60,6 +69,7 @@
   "order": [
     "main",
     "16502689640cb70e6f",
+    "1653312055d1bf5e30",
     "16412298855ec48ea3"
   ]
 }
