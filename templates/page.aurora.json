@@ -1,5 +1,56 @@
 {
   "sections": {
+    "164180139105af504c": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1641801391c082977f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium Organic Worm Castings",
+            "heading_size": "large"
+          }
+        },
+        "1641801391c082977f-1": {
+          "type": "text",
+          "settings": {
+            "text": "Also known as BLACK GOLD, our premium organic earthworm castings work with your soil to promote plant growth and root structure. Our tote contains essential plant nutrients and beneficial micro-organisms which increase moisture retention and optimizes growth. The castings can be used both indoor or outdoor for seed germination, seedling propagation, and on existing plants. We recommend creating a mixture that consists of 80%-85% of existing soil and 15%-20% of our premium organic castings.",
+            "text_style": "body"
+          }
+        },
+        "1641801391c082977f-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy Now",
+            "button_label_id": "",
+            "button_link_1": "shopify:\/\/products\/organic-worm-castings-1-cubic-yard",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1641801391c082977f-0",
+        "1641801391c082977f-1",
+        "1641801391c082977f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/purelifebag-about-us-p5.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "custom_class": "main-banner au b-r text-shad"
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -252,57 +303,6 @@
         "custom_class": "main-banner au text-shad"
       }
     },
-    "164180139105af504c": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "1641801391c082977f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Premium Organic Worm Castings",
-            "heading_size": "large"
-          }
-        },
-        "1641801391c082977f-1": {
-          "type": "text",
-          "settings": {
-            "text": "Also known as BLACK GOLD, our premium organic earthworm castings work with your soil to promote plant growth and root structure. Our tote contains essential plant nutrients and beneficial micro-organisms which increase moisture retention and optimizes growth. The castings can be used both indoor or outdoor for seed germination, seedling propagation, and on existing plants. We recommend creating a mixture that consists of 80%-85% of existing soil and 15%-20% of our premium organic castings.",
-            "text_style": "body"
-          }
-        },
-        "1641801391c082977f-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Buy Now",
-            "button_label_id": "",
-            "button_link_1": "shopify:\/\/products\/organic-worm-castings-1-cubic-yard",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1641801391c082977f-0",
-        "1641801391c082977f-1",
-        "1641801391c082977f-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/purelifebag-about-us-p5.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false,
-        "custom_class": "main-banner au b-r text-shad"
-      }
-    },
     "1641230570463754b7": {
       "type": "items-slider",
       "disabled": true,
@@ -512,7 +512,7 @@
       "settings": {
         "section_title": "",
         "section_description": "",
-        "section_html": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d92043.73730849332!2d-79.09880975102736!3d43.868951521581955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4e7b441ad15d1%3A0xfb77e101d380bece!2sAjax%2C%20ON%2C%20Canada!5e0!3m2!1sen!2s!4v1650267685744!5m2!1sen!2s\" width=\"100%\" height=\"380\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>\n\t\t\t\n<h1>Soil Delivery Ajax<\/h1>\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<p><b>Address:<\/b><br>\n\t\t\t\t\t\tAjax, ON<br>\n\t\t\t\t\t\tCanada<br>\n\t\t\t\t\t\tL0H 1H0\n<\/p>\n\t\t\t\t\t<p>\n\t\t\t\t\t\tTelephone: <a class=\"tel\" href=\"tel:416-769-1428\">(416) 769-1428<\/a>\n\t\t\t\t<br>\n\t\t\t\t\t\tFax: <span>(416) 534-4630<\/span>\n\t\t\t\t\t<\/p>\n\t\t\t\t\t<p>Website: <a href=\"https:\/\/purelifesoil.com\/\" target=\"_blank\">Purelifesoil.com<\/a><\/p>\n\n\n<style> \n\n  iframe  {  \n    width: 700px; \n    float: left; \n    margin-right: 60px; \n  } \n<\/style>\n\n<br>\n<h2>Bag Return Program<\/h2>\nHere at Purelifebag, we’ve always been committed to minimizing our environmental impact. Our customers have made it clear that sustainability is a priority of theirs. Properly reusing or recycling empty bags is an excellent way to reduce our footprint. We are proud to outline our new Empty Bag Re-Use Initiative below, effective Spring 2022.\n\n<h2>Home Collection<\/h2>\n\nWe will gladly collect your empty bag(s) when we return to your house during a future delivery. Just make sure your bag is clearly visible and accessible upon our arrival. Our driver will apply a $5 credit (per empty bag) to the credit card you used to make your purchase. Note: We do not charge a deposit on our bags.\n\n<h2>Drop &amp; Donate<\/h2>\nWe are happy to offer more locations where you can drop off your empty bag at any time through-out our season. Please visit our page https:\/\/purelifesoil.com\/ for more current details and up to date drop off locations.\n<br>\n<br>\n<br>",
+        "section_html": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d45923.49733586714!2d-79.44642094999999!3d43.99620705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882ad392943890c7%3A0x5037b28c7231a30!2sAurora%2C%20ON%2C%20Canada!5e0!3m2!1sen!2s!4v1653293631057!5m2!1sen!2s\" width=\"100%\" height=\"380\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>\"&gt;\n\n<h1>Soil Delivery Aurora<\/h1>\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<p><b>Address:<\/b><br>\n\t\t\t\t\t\tAurora, ON<br>\n\t\t\t\t\t\tCanada<br>\n\t\t\t\t\t\tL0H 1G0\n<\/p>\n\t\t\t\t\t<p>\n\t\t\t\t\t\tTelephone: <a class=\"tel\" href=\"tel:416-769-1428\">(416) 769-1428<\/a>\n\t\t\t\t<br>\n\t\t\t\t\t\tFax: <span>(416) 534-4630<\/span>\n\t\t\t\t\t<\/p>\n\t\t\t\t\t\n\n\n<style> \n\n  iframe  {  \n    width: 700px; \n    float: left; \n    margin-right: 60px; \n  } \n<\/style>\n\n<h2>Get Top Soil with Free Delivery <\/h2>\nIf you're looking for the best soil delivery in Aurora, look no further than our top-rated service. We offer free delivery on all orders, and our bulk soil options are perfect for those who want to save time and money. Plus, our soil is rich in nutrients and perfect for growing healthy plants. Order today and see the difference our soil makes in your garden!\n\n<h2> Benefits of Soil Delivery Services<\/h2>\n•\tClean &amp; Precise Delivery\n•\tEasy Access\n•\tSave Money\n•\tFast Delivery\n<br>\n<br>\n<br>",
         "section_class": ""
       }
     },
@@ -570,13 +570,13 @@
     }
   },
   "order": [
+    "164180139105af504c",
     "main",
     "1641228960300cea23",
     "164180012772ff43af",
     "1641800147cf0f4434",
     "1641800719ad0e25ca",
     "164180097271a79654",
-    "164180139105af504c",
     "1641230570463754b7",
     "1641805515544436f9",
     "1642218509766263c7",
