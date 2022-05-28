@@ -61,7 +61,7 @@
       "settings": {
         "section_title": "Zone 2",
         "section_description": "$30 delivery per tote bag",
-        "section_html": "<ul>\n<li><a href=\"https:\/\/www.purelifebag.com\/pages\/soil-delivery-barrie\">Barrie<\/a><\/li>\n<li>Beamsville<\/li>\n<li>Bolton<\/li>\n<li>Brantford<\/li>\n<li>Cambridge<\/li>\n<li>Guelph<\/li>\n<li>Hamilton<\/li>\n<li>Kingston<\/li>\n<li>Kitchener<\/li>\n<li>London<\/li>\n<li>Niagara Region<\/li>\n<li>Palgrave<\/li>\n<li>Peterborough<\/li>\n<li>Singhampton<\/li>\n<li>St Catherine<\/li>\n<li>Stoney Creek<\/li>\n<li>Unionville<\/li>\n<li>Uxbridge<\/li>\n<li>Woodstock<\/li>\n<\/ul>",
+        "section_html": "<ul>\n<li><a href=\"https:\/\/www.purelifebag.com\/pages\/soil-delivery-barrie\">Barrie<\/a><\/li>\n<li><a href=\"https:\/\/www.purelifebag.com\/pages\/soil-delivery-beamsville\">Beamsville<\/a><\/li>\n<li>Bolton<\/li>\n<li>Brantford<\/li>\n<li>Cambridge<\/li>\n<li>Guelph<\/li>\n<li>Hamilton<\/li>\n<li>Kingston<\/li>\n<li>Kitchener<\/li>\n<li>London<\/li>\n<li>Niagara Region<\/li>\n<li>Palgrave<\/li>\n<li>Peterborough<\/li>\n<li>Singhampton<\/li>\n<li>St Catherine<\/li>\n<li>Stoney Creek<\/li>\n<li>Unionville<\/li>\n<li>Uxbridge<\/li>\n<li>Woodstock<\/li>\n<\/ul>",
         "section_class": "shipping-zone"
       }
     },
