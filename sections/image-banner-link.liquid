@@ -58,43 +58,22 @@
   
   
 </div>
-
 {% schema %}
 {
-  "name": "t:sections.image-banner.name",
-  "tag": "section",
-  "class": "spaced-section spaced-section--full-width",
+  "name": "Image banner with link",
+  "class": "img-banner-link",
   "settings": [
     {
       "type": "image_picker",
       "id": "image",
-      "label": "t:sections.image-banner.settings.image.label"
+	  "label": "Banner image"
     },
     {
       "type": "url",
-      "id": "image_link",
-      "label": "Image link"
-    }
-  ],
-  "blocks": [
-    {
-      "type": "heading",
-      "name": "t:sections.image-banner.blocks.heading.name",
-      "limit": 1,
-      "settings": [
-        {
-          "type": "text",
-          "id": "heading",
-          "default": "Image banner with link",
-          "label": "t:sections.image-banner.blocks.heading.settings.heading.label"
-        }
-      ]
-    }
-  ],
-  "presets": [
-    {
-      "name": "Image banner with link "
+      "id": "url",
+      "label": "Image url"
     }
   ]
 }
 {% endschema %}
+
