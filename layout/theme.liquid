@@ -191,7 +191,7 @@
     g.async=true; g.src='https://cdn.matomo.cloud/reverseads.matomo.cloud/container_7bEth7zI.js'; s.parentNode.insertBefore(g,s);
     </script>
     <!-- End Matomo Tag Manager -->
-  {% include 'ufe-offer' %}</head>
+  </head>
 
   <body class="gradient">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
@@ -201,7 +201,7 @@
     {% section 'announcement-bar' %}
     {% section 'header' %}
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-      {{ content_for_layout }}
+      {{ content_for_layout }}<!-- End of layout -->
 	<noscript class="endOfLayoutContentX" type="text/mark"></noscript>
     </main>
 
