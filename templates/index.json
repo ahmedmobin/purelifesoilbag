@@ -107,6 +107,7 @@
     },
     "1641115458421f4b82": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16411154584316a48f-0": {
           "type": "heading",
@@ -145,6 +146,59 @@
         "stack_images_on_mobile": false,
         "show_text_below": false,
         "custom_class": "spin-wheel"
+      }
+    },
+    "1655558403f8583ee5": {
+      "type": "image-banner",
+      "blocks": {
+        "1655558403ab8d1d10-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "1655558403ab8d1d10-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1655558403ab8d1d10-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_label_id": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1655558403ab8d1d10-0",
+        "1655558403ab8d1d10-1",
+        "1655558403ab8d1d10-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/discount-banner.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "custom_class": ""
       }
     },
     "16408619634fa92726": {
@@ -250,6 +304,7 @@
     "image_banner",
     "16410247051dbd54f4",
     "1641115458421f4b82",
+    "1655558403f8583ee5",
     "16408619634fa92726"
   ]
 }
