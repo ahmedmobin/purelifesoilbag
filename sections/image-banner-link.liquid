@@ -1,6 +1,6 @@
 <div id="Banner-{{ section.id }}">
   {%- if section.settings.image != blank -%}
-    <div class="banner__media">
+    <div class="banner__media1">
       <a href="{{ section.settings.url}}"> 
         <img
           srcset="{%- if section.settings.image.width >= 375 -%}{{ section.settings.image | img_url: '375x' }} 375w,{%- endif -%}
