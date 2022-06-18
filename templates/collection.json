@@ -3,10 +3,13 @@
     "banner-image": {
       "type": "image-banner-link",
       "settings": {
+        "image": "shopify:\/\/shop_images\/discount-banner.jpg",
+        "url": ""
       }
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true
