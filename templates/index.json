@@ -148,6 +148,13 @@
         "custom_class": "spin-wheel"
       }
     },
+    "165555868001a438f5": {
+      "type": "image-banner-link",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/discount-banner.jpg",
+        "url": "shopify:\/\/collections\/tote-bags"
+      }
+    },
     "16408619634fa92726": {
       "type": "items-slider",
       "blocks": {
@@ -245,20 +252,13 @@
       "settings": {
         "slider-heading": "Testimonials"
       }
-    },
-    "165555868001a438f5": {
-      "type": "image-banner-link",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/discount-banner.jpg",
-        "url": "shopify:\/\/collections\/tote-bags"
-      }
     }
   },
   "order": [
     "image_banner",
     "16410247051dbd54f4",
     "1641115458421f4b82",
-    "16408619634fa92726",
-    "165555868001a438f5"
+    "165555868001a438f5",
+    "16408619634fa92726"
   ]
 }
