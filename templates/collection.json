@@ -1,5 +1,10 @@
 {
   "sections": {
+    "banner-image": {
+      "type": "image-banner-link",
+      "settings": {
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -24,6 +29,7 @@
     }
   },
   "order": [
+    "banner-image",
     "banner",
     "product-grid"
   ]
