@@ -1,12 +1,5 @@
 {
   "sections": {
-    "banner-image": {
-      "type": "image-banner-link",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/discount-banner.jpg",
-        "url": ""
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -29,11 +22,18 @@
         "enable_sorting": true,
         "collapse_on_larger_devices": false
       }
+    },
+    "banner-image": {
+      "type": "image-banner-link",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/discount-banner.jpg",
+        "url": ""
+      }
     }
   },
   "order": [
-    "banner-image",
     "banner",
-    "product-grid"
+    "product-grid",
+    "banner-image"
   ]
 }
