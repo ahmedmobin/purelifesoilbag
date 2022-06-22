@@ -8,6 +8,13 @@
         "show_collection_image": true
       }
     },
+    "banner-image": {
+      "type": "image-banner-link",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/discount-banner.jpg",
+        "url": ""
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -22,18 +29,11 @@
         "enable_sorting": true,
         "collapse_on_larger_devices": false
       }
-    },
-    "banner-image": {
-      "type": "image-banner-link",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/discount-banner.jpg",
-        "url": ""
-      }
     }
   },
   "order": [
     "banner",
-    "product-grid",
-    "banner-image"
+    "banner-image",
+    "product-grid"
   ]
 }
