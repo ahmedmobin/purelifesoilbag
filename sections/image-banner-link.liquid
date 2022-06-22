@@ -8,7 +8,7 @@
 {%- endstyle -%}
 <div id="Banner-{{ section.id }}">
   {%- if section.settings.image != blank -%}
-    <div class="page-width">
+    <div class="{%- if section.settings.checkbox -%}page-width{%- endif -%}">
       {%- if section.settings.url != blank -%}<a href="{{ section.settings.url}}"> {%- endif -%}
         <img
           srcset="{%- if section.settings.image.width >= 375 -%}{{ section.settings.image | img_url: '375x' }} 375w,{%- endif -%}
@@ -52,7 +52,7 @@
     {
       "type": "checkbox",
       "id": "checkbox",
-      "label": "Full width"
+      "label": "Show in container"
     }
   ]
 }

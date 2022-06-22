@@ -12,7 +12,8 @@
       "type": "image-banner-link",
       "settings": {
         "image": "shopify:\/\/shop_images\/discount-banner.jpg",
-        "url": ""
+        "url": "",
+        "checkbox": true
       }
     },
     "product-grid": {
