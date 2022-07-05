@@ -150,9 +150,11 @@
     },
     "165555868001a438f5": {
       "type": "image-banner-link",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/discount-banner.jpg",
-        "url": "shopify:\/\/collections\/tote-bags"
+        "url": "shopify:\/\/collections\/tote-bags",
+        "checkbox": false
       }
     },
     "16408619634fa92726": {
