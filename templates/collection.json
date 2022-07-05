@@ -10,6 +10,7 @@
     },
     "banner-image": {
       "type": "image-banner-link",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/discount-banner.jpg",
         "url": "",
